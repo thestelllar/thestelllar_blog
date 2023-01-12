@@ -16,5 +16,5 @@ profile_picture:
   So far, I have talked about things I do and do pretty decently, in my opinion. There is one thing I can think of right off the bat that I am not good at. And that is giving suggestions. The only suggestion I find myself giving is, "You know what? You will figure it out yourself." So unless you want me repeating the obvious, kindly consider unlisting me from your advisory council.<br><br>
   Well, this is about me on my best days. Not every day is my best day. On days like that, I try not to beat myself up for slacking a bit.<br>
   So that's about me from me. Thanks for stopping by. I hope you have a wonderful day ahead.✨<br>
-  <br> P.S. I promise I will update the profile picture once I find one that's just right. Till then here's to the starry sky!
+  <br> P.S. I will update the profile picture once I find one that's just right. Till then here's to the starry sky!
 </p>
