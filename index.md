@@ -17,4 +17,7 @@ profile_picture:
   Well, this is about me on my best days. Not every day is my best day. On days like that, I try not to beat myself up for slacking a bit.<br>
   So that's about me from me. Thanks for stopping by. I hope you have a wonderful day ahead.✨<br>
   <br> P.S. I will update the profile picture once I find one that's just right. Till then here's to the starry sky!
+  <br><br>
+  Link to my <a href="https://palak001.github.io/"> personal website. </a>
+
 </p>
