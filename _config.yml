@@ -4,7 +4,7 @@
 title: thestelllar
 description: >- # this means to ignore newlines until "baseurl:"
     My Adventure Book Part I
-baseurl: "" # the subpath of the site
+baseurl: "/" # the subpath of the site
 url: "https://thestelllar.github.io" # the base hostname & protocol for the site
 og_image: /assets/img/profile-pic.jpg
 
