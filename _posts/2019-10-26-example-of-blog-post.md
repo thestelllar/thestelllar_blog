@@ -27,32 +27,24 @@ They have all prepared one-liner about them. So let's hear it.
 
 (Passing the mic)
 
-<img src="{{ "/assets/img/content/TheOne.svg" | absolute_url }}" alt="TheOne" class="post-pic"/>
-<img src="{{ "/assets/img/content/TheOne.svg" | absolute_url }}" alt="TheOne_Explaining" class="post-pic"/>
+<img src="{{ "/assets/img/content/TheOne_complete.svg" | absolute_url }}" alt="TheOne" class="post-pic"/>
 <b>The-One</b><br>
 Hi everyone, I am The-One you are looking at currently (pun intended). I have a profound likeness for sharp corners and a strange preference for pink bows. I can't bear rounded objects around me, stealing a side glance at other characters.
 We will meet when you seek for the one. TheOne.
 
 <i>(someone from the crowd) </i> Your moustache, sir!
 
-<img src="{{ "/assets/img/content/Star_excited.svg" | absolute_url }}" alt="TheOne" class="post-pic"/>
-<img src="{{ "/assets/img/content/Star_confused.svg" | absolute_url }}" alt="TheOne" class="post-pic"/>
-<img src="{{ "/assets/img/content/Star_enlightened.svg" | absolute_url }}" alt="TheOne" class="post-pic"/>
+<img src="{{ "/assets/img/content/Starry_complete.svg" | absolute_url }}" alt="Starry" class="post-pic"/>
 <b>Star-ry</b><br>
 Hi. Because of my inclination toward stories, I was named Star-ry. I perfectly get what people mean by — "starry eyes sparking up my darkest night."
 We will meet when it's star-ry time!
 
-<img src="{{ "/assets/img/content/Leaf.svg" | absolute_url }}" alt="TheOne" class="post-pic"/>
-<img src="{{ "/assets/img/content/Leaf_confused.svg" | absolute_url }}" alt="TheOne" class="post-pic"/>
-<img src="{{ "/assets/img/content/Leaf_explaining_1.svg" | absolute_url }}" alt="TheOne" class="post-pic"/>
-<img src="{{ "/assets/img/content/Leaf_explaining_2.svg" | absolute_url }}" alt="TheOne" class="post-pic"/>
+<img src="{{ "/assets/img/content/Simpleafy_complete.svg" | absolute_url }}" alt="Simpleafy" class="post-pic"/>
 <b>Simp-leaf-y</b><br>
 Simple is how everything should be. Because of my devotion towards simplicity, people(and leaves too) call me Simp-leaf-y.
 We will meet when simplicity is what you seek for.
 
-<img src="{{ "/assets/img/content/Twins_please.svg" | absolute_url }}" alt="TheOne" class="post-pic"/>
-<img src="{{ "/assets/img/content/Twins_confused.svg" | absolute_url }}" alt="TheOne" class="post-pic"/>
-<img src="{{ "/assets/img/content/Twins_cornered.svg" | absolute_url }}" alt="TheOne" class="post-pic"/>
+<img src="{{ "/assets/img/content/BBF_complete.svg" | absolute_url }}" alt="BBF" class="post-pic"/>
 <b>Best-Buds-Forever</b><br>
 (in unison) We are Best-Buds-Forever. We might not be the brightest ones, but we sure are the best ones.
 

@@ -1,0 +1,77 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="1371px" height="860px" viewBox="0 0 1371 860" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+    <title>Group 3</title>
+    <defs>
+        <rect id="path-1" x="0" y="0" width="469" height="613"></rect>
+        <rect id="path-3" x="0" y="0" width="469" height="613"></rect>
+    </defs>
+    <g id="Grandpa" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
+        <g id="16:9" transform="translate(-214.000000, -211.000000)">
+            <g id="Group-3" transform="translate(214.000000, 211.000000)">
+                <g id="Group">
+                    <path d="M545.791494,-11.9901076 C546.343779,-11.9901076 546.791494,-11.5423923 546.791494,-10.9901076 L546.791494,84.0098924 C546.791494,84.5621772 546.343779,85.0098924 545.791494,85.0098924 L476.791494,85.0098924 C476.239209,85.0098924 475.791494,84.5621772 475.791494,84.0098924 L475.791494,-10.9901076 C475.791494,-11.5423923 476.239209,-11.9901076 476.791494,-11.9901076 L478.722494,-11.9908463 L513.64653,53.0722051 L545.697494,-11.9908463 L545.791494,-11.9901076 Z" id="Combined-Shape" fill="#E02020" transform="translate(511.291494, 36.509523) rotate(89.000000) translate(-511.291494, -36.509523) "></path>
+                    <mask id="mask-2" fill="white">
+                        <use xlink:href="#path-1"></use>
+                    </mask>
+                    <use id="Rectangle" fill="#7D82B8" xlink:href="#path-1"></use>
+                    <rect id="Rectangle" fill-opacity="0.85" fill="#000000" mask="url(#mask-2)" x="109" y="345" width="199" height="84"></rect>
+                    <polygon id="Rectangle" fill-opacity="0.85" fill="#000000" mask="url(#mask-2)" points="59 100 153 100 153 200 59 200"></polygon>
+                    <rect id="Rectangle" fill="#FFFFFF" mask="url(#mask-2)" x="86" y="132" width="39" height="35"></rect>
+                    <polygon id="Rectangle-Copy" fill-opacity="0.85" fill="#000000" mask="url(#mask-2)" points="265 100 359 100 359 200 265 200"></polygon>
+                    <rect id="Rectangle-Copy-2" fill="#FFFFFF" mask="url(#mask-2)" x="293" y="132" width="39" height="35"></rect>
+                    <polygon id="Triangle" fill="#F7A9A8" mask="url(#mask-2)" transform="translate(151.000000, 539.500000) rotate(90.000000) translate(-151.000000, -539.500000) " points="151 479 211.5 600 90.5 600"></polygon>
+                    <polygon id="Triangle-Copy-3" fill="#F7A9A8" mask="url(#mask-2)" points="209 232 238.5 291 179.5 291"></polygon>
+                    <polygon id="Triangle-Copy-2" fill="#F7A9A8" mask="url(#mask-2)" transform="translate(271.590648, 538.621824) rotate(269.000000) translate(-271.590648, -538.621824) " points="271.590648 478.121824 332.090648 599.121824 211.090648 599.121824"></polygon>
+                    <rect id="Rectangle" fill="#000000" mask="url(#mask-2)" x="425" y="340" width="19" height="271"></rect>
+                    <polygon id="Triangle" fill="#D8D8D8" mask="url(#mask-2)" points="434.5 293 444 340 425 340"></polygon>
+                    <polygon id="Triangle" fill="#000000" mask="url(#mask-2)" points="434.5 293 437 304 432 304"></polygon>
+                    <rect id="Rectangle" stroke="#979797" fill="#FFFFFF" mask="url(#mask-2)" x="153.5" y="346.5" width="111" height="32"></rect>
+                    <rect id="Rectangle" fill="#E02020" mask="url(#mask-2)" x="181" y="418" width="54" height="11"></rect>
+                    <g id="moustache" mask="url(#mask-2)" fill="#000000" fill-rule="nonzero">
+                        <g transform="translate(65.000000, 317.000000)" id="Path">
+                            <path d="M205.034949,74.0661652 C237.704293,86.3401973 249.362507,34.3793607 287,71.224485 C287,-0.00174594969 263.551842,20.4426924 230.877793,8.16405473 C200.499631,-3.25332817 168.935888,-2.25390417 143.497648,8.44039316 C118.054702,-2.25850981 86.4956641,-3.25793381 56.1127977,8.16405473 C23.4434536,20.4380868 0,-0.00174594969 0,71.2198794 C37.1717293,34.8307135 49.2862974,86.3401973 81.9509368,74.0615596 C109.797977,63.5975443 131.176073,44.7006011 143.492943,22.6718224 C155.809813,44.7052068 177.192613,63.5929386 205.034949,74.0661652 Z"></path>
+                        </g>
+                    </g>
+                </g>
+                <g id="Group-2" transform="translate(810.000000, 0.000000)">
+                    <g id="Group-Copy">
+                        <path d="M545.791494,-11.9901076 C546.343779,-11.9901076 546.791494,-11.5423923 546.791494,-10.9901076 L546.791494,84.0098924 C546.791494,84.5621772 546.343779,85.0098924 545.791494,85.0098924 L476.791494,85.0098924 C476.239209,85.0098924 475.791494,84.5621772 475.791494,84.0098924 L475.791494,-10.9901076 C475.791494,-11.5423923 476.239209,-11.9901076 476.791494,-11.9901076 L478.722494,-11.9908463 L513.64653,53.0722051 L545.697494,-11.9908463 L545.791494,-11.9901076 Z" id="Combined-Shape" fill="#E02020" transform="translate(511.291494, 36.509523) rotate(89.000000) translate(-511.291494, -36.509523) "></path>
+                        <mask id="mask-4" fill="white">
+                            <use xlink:href="#path-3"></use>
+                        </mask>
+                        <use id="Rectangle" fill="#7D82B8" xlink:href="#path-3"></use>
+                        <rect id="Rectangle" fill-opacity="0.85" fill="#000000" mask="url(#mask-4)" x="109" y="345" width="199" height="84"></rect>
+                        <polygon id="Rectangle" fill-opacity="0.85" fill="#000000" mask="url(#mask-4)" points="59 100 153 100 153 200 59 200"></polygon>
+                        <rect id="Rectangle" fill="#FFFFFF" mask="url(#mask-4)" x="86" y="132" width="39" height="35"></rect>
+                        <polygon id="Rectangle-Copy" fill-opacity="0.85" fill="#000000" mask="url(#mask-4)" points="265 100 359 100 359 200 265 200"></polygon>
+                        <rect id="Rectangle-Copy-2" fill="#FFFFFF" mask="url(#mask-4)" x="293" y="132" width="39" height="35"></rect>
+                        <polygon id="Triangle" fill="#F7A9A8" mask="url(#mask-4)" transform="translate(151.000000, 539.500000) rotate(90.000000) translate(-151.000000, -539.500000) " points="151 479 211.5 600 90.5 600"></polygon>
+                        <polygon id="Triangle-Copy-3" fill="#F7A9A8" mask="url(#mask-4)" points="209 232 238.5 291 179.5 291"></polygon>
+                        <polygon id="Triangle-Copy-2" fill="#F7A9A8" mask="url(#mask-4)" transform="translate(271.590648, 538.621824) rotate(269.000000) translate(-271.590648, -538.621824) " points="271.590648 478.121824 332.090648 599.121824 211.090648 599.121824"></polygon>
+                        <rect id="Rectangle" fill="#000000" mask="url(#mask-4)" x="425" y="340" width="19" height="271"></rect>
+                        <polygon id="Triangle" fill="#D8D8D8" mask="url(#mask-4)" points="434.5 293 444 340 425 340"></polygon>
+                        <polygon id="Triangle" fill="#000000" mask="url(#mask-4)" points="434.5 293 437 304 432 304"></polygon>
+                        <rect id="Rectangle" stroke="#979797" fill="#FFFFFF" mask="url(#mask-4)" x="153.5" y="346.5" width="111" height="32"></rect>
+                        <rect id="Rectangle" fill="#E02020" mask="url(#mask-4)" x="181" y="418" width="54" height="11"></rect>
+                        <g id="moustache" mask="url(#mask-4)" fill="#000000" fill-rule="nonzero">
+                            <g transform="translate(65.000000, 317.000000)" id="Path">
+                                <path d="M205.034949,74.0661652 C237.704293,86.3401973 249.362507,34.3793607 287,71.224485 C287,-0.00174594969 263.551842,20.4426924 230.877793,8.16405473 C200.499631,-3.25332817 168.935888,-2.25390417 143.497648,8.44039316 C118.054702,-2.25850981 86.4956641,-3.25793381 56.1127977,8.16405473 C23.4434536,20.4380868 0,-0.00174594969 0,71.2198794 C37.1717293,34.8307135 49.2862974,86.3401973 81.9509368,74.0615596 C109.797977,63.5975443 131.176073,44.7006011 143.492943,22.6718224 C155.809813,44.7052068 177.192613,63.5929386 205.034949,74.0661652 Z"></path>
+                            </g>
+                        </g>
+                    </g>
+                    <path d="M181,75 L181,152 L235,152 L235,75 L390,75 L390,236 L235,236 L235,169 L181,169 L181,236 L26,236 L26,75 L181,75 Z M167,88.3312102 L40,88.3312102 L40,217.541401 L167,217.541401 L167,88.3312102 Z M376,88.3312102 L249,88.3312102 L249,217.541401 L376,217.541401 L376,88.3312102 Z" id="Combined-Shape" fill="#F7A9A8"></path>
+                    <line x1="390.5" y1="145.5" x2="464" y2="65" id="Line" stroke="#F7A9A8" stroke-width="10" stroke-linecap="square"></line>
+                    <line x1="32.5" y1="145.5" x2="7" y2="105" id="Line-2" stroke="#F7A9A8" stroke-width="10" stroke-linecap="square"></line>
+                </g>
+                <text id="The-One-(relaxing)" font-family="AcademyEngravedLetPlain, Academy Engraved LET" font-size="70" font-weight="normal" fill="#000000">
+                    <tspan x="80.3144531" y="725">The-One</tspan>
+                    <tspan x="77.6313477" y="825">(relaxing)</tspan>
+                </text>
+                <text id="The-One-(explaining)" font-family="AcademyEngravedLetPlain, Academy Engraved LET" font-size="70" font-weight="normal" fill="#000000">
+                    <tspan x="918.314453" y="725">The-One</tspan>
+                    <tspan x="881.041504" y="825">(explaining)</tspan>
+                </text>
+            </g>
+        </g>
+    </g>
+</svg>
