@@ -2,7 +2,8 @@
 layout: blog
 title: Blog
 slug: /blog
+og_image: /assets/img/content/post-example/Banner.jpg
 ---
 
-This is an example of a "Blog" page, displaying a list of posts.
+Meet the Characters
 <br />
