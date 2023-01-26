@@ -1,5 +1,5 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="2492px" height="779px" viewBox="0 0 2492 779" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="2492px" height="759px" viewBox="0 0 2492 759" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>Group 4</title>
     <g id="Star" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
         <g id="Group-4">
@@ -51,21 +51,21 @@
                 <circle id="Oval-Copy" fill="#000000" cx="256.275877" cy="260.5" r="18.5"></circle>
                 <path d="M332.778592,383.431628 L336.636889,386.688092 C343.680965,392.633405 352.25917,396.471254 361.386205,397.760823 L379.520521,400.323041 C383.784287,400.925473 386.752385,404.870307 386.149953,409.134073 C385.837088,411.348398 384.588477,413.321783 382.721426,414.552734 L377.813652,417.788443 C376.899117,418.391399 376.034691,419.050137 375.22338,419.758274 L348.031809,419.759593 C325.473579,419.759593 305.595754,408.283418 293.918182,390.850919 C295.917554,389.60678 297.830655,388.217134 299.642282,386.688092 L303.500578,383.431628 C311.955445,376.295585 324.323725,376.295585 332.778592,383.431628 Z" id="Combined-Shape" fill="#E02020" transform="translate(340.072560, 398.919594) rotate(-27.000000) translate(-340.072560, -398.919594) "></path>
             </g>
-            <text id="Star-ry-(excited)" font-family="AcademyEngravedLetPlain, Academy Engraved LET" font-size="70" font-weight="normal" fill="#000000">
-                <tspan x="241.356445" y="644">Star-ry</tspan>
-                <tspan x="215.089355" y="744">(excited)</tspan>
+            <text id="Star-ry-(excited)" font-family="AcademyEngravedLetPlain, Academy Engraved LET" font-size="60" font-weight="normal" fill="#000000">
+                <tspan x="254.876953" y="644">Star-ry</tspan>
+                <tspan x="232.362305" y="729">(excited)</tspan>
             </text>
-            <text id="Star-ry-(explaining)" font-family="AcademyEngravedLetPlain, Academy Engraved LET" font-size="70" font-weight="normal" fill="#000000">
-                <tspan x="2044.35645" y="644">Star-ry</tspan>
-                <tspan x="1969.0415" y="744">(explaining)</tspan>
+            <text id="Star-ry-(explaining)" font-family="AcademyEngravedLetPlain, Academy Engraved LET" font-size="60" font-weight="normal" fill="#000000">
+                <tspan x="2057.87695" y="644">Star-ry</tspan>
+                <tspan x="1993.32129" y="729">(explaining)</tspan>
             </text>
-            <text id="Star-ry-(enlightened" font-family="AcademyEngravedLetPlain, Academy Engraved LET" font-size="70" font-weight="normal" fill="#000000">
-                <tspan x="1441.35645" y="644">Star-ry</tspan>
-                <tspan x="1345.90967" y="744">(enlightened)</tspan>
+            <text id="Star-ry-(enlightened" font-family="AcademyEngravedLetPlain, Academy Engraved LET" font-size="60" font-weight="normal" fill="#000000">
+                <tspan x="1454.87695" y="644">Star-ry</tspan>
+                <tspan x="1373.06543" y="729">(enlightened)</tspan>
             </text>
-            <text id="Star-ry-(confused)" font-family="AcademyEngravedLetPlain, Academy Engraved LET" font-size="70" font-weight="normal" fill="#000000">
-                <tspan x="855.356445" y="644">Star-ry</tspan>
-                <tspan x="800.993652" y="744">(confused)</tspan>
+            <text id="Star-ry-(confused)" font-family="AcademyEngravedLetPlain, Academy Engraved LET" font-size="60" font-weight="normal" fill="#000000">
+                <tspan x="868.876953" y="644">Star-ry</tspan>
+                <tspan x="822.280273" y="729">(confused)</tspan>
             </text>
         </g>
     </g>

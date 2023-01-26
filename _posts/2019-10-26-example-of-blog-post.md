@@ -10,42 +10,40 @@ og_image: /assets/img/content/Meet_The_Characters.svg
 <br />
 <br />
 
-(Mic checking)
+(Mic checking)<br>
 Check, ahem, Check.
 
 Thanks for joining us for tonight's show — <b>Meet The Characters</b>.
 
-(Drumroll, please)
+<i>(Drumroll, please)</i>
 
-After hours of brainstorming and doodling, I would like to introduce you to my finest creations — The-One, Star-ry, Simp-leaf-y, and Best-Buds-forever.
+After hours of brainstorming and doodling, I would like to introduce you to my finest creations — <b>The-One, Star-ry, Simp-leaf-y, and Best-Buds-forever.</b>
 
-(Drumroll again, please)
+<i>(Drumroll again, please)</i>
 
-Every now and then, just for a change, they will sneak inside to say hello while you are around. I hope you won't mind.
+Every now and then, just for a change, they will sneak inside to say hello while you are around. I hope you won't mind. They all have prepared one-liner about themselves. So let's hear it.
 
-They have all prepared one-liner about them. So let's hear it.
+<i>(Passing the mic)</i>
 
-(Passing the mic)
-
+<h3>The-One</h3><br>
 <img src="{{ "/assets/img/content/TheOne_complete.svg" | absolute_url }}" alt="TheOne" class="post-pic"/>
-<b>The-One</b><br>
 Hi everyone, I am The-One you are looking at currently (pun intended). I have a profound likeness for sharp corners and a strange preference for pink bows. I can't bear rounded objects around me, stealing a side glance at other characters.
 We will meet when you seek for the one. TheOne.
 
 <i>(someone from the crowd) </i> Your moustache, sir!
 
+<h3>Star-ry</h3><br>
 <img src="{{ "/assets/img/content/Starry_complete.svg" | absolute_url }}" alt="Starry" class="post-pic"/>
-<b>Star-ry</b><br>
 Hi. Because of my inclination toward stories, I was named Star-ry. I perfectly get what people mean by — "starry eyes sparking up my darkest night."
 We will meet when it's star-ry time!
 
+<h3>Simp-leaf-y</h3><br>
 <img src="{{ "/assets/img/content/Simpleafy_complete.svg" | absolute_url }}" alt="Simpleafy" class="post-pic"/>
-<b>Simp-leaf-y</b><br>
 Simple is how everything should be. Because of my devotion towards simplicity, people(and leaves too) call me Simp-leaf-y.
 We will meet when simplicity is what you seek for.
 
+<h3>Best-Buds-Forever</h3><br>
 <img src="{{ "/assets/img/content/BBF_complete.svg" | absolute_url }}" alt="BBF" class="post-pic"/>
-<b>Best-Buds-Forever</b><br>
 (in unison) We are Best-Buds-Forever. We might not be the brightest ones, but we sure are the best ones.
 
 <br />

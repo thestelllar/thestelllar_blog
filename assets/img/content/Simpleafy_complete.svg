@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
-<svg width="1548px" height="748px" viewBox="0 0 1548 748" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
+<svg width="1548px" height="729px" viewBox="0 0 1548 729" version="1.1" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink">
     <title>Group</title>
     <g id="Leaf" stroke="none" stroke-width="1" fill="none" fill-rule="evenodd">
-        <g id="Group">
+        <g id="Group" transform="translate(-0.000000, 0.000000)">
             <g id="Leaf">
                 <path d="M171.036166,358.503488 C43.955704,495.499823 -0.165286196,565.166489 38.6731959,567.503488" id="Path-2" stroke="#6E5555" stroke-width="10"></path>
                 <path d="M193.401957,30.5914808 C265.746538,72.5565823 314.400243,150.848194 314.400243,240.503488 C314.400243,330.158782 265.746538,408.450394 193.401957,450.415495 C121.054398,408.451118 72.4002428,330.159197 72.4002428,240.503488 C72.4002428,152.110314 119.693748,74.7631296 190.357398,32.3852952 Z" id="Combined-Shape" fill="#6DD400" transform="translate(193.400243, 240.503488) rotate(23.000000) translate(-193.400243, -240.503488) "></path>
@@ -45,21 +45,21 @@
                 <circle id="Oval" stroke="#979797" fill="#FFFFFF" cx="152.562079" cy="181.457654" r="7.36359077"></circle>
                 <path d="M168.265277,301.003488 L206.535209,301.003488 C208.871533,301.003488 210.015732,301.305171 211.074991,301.871669 C212.134251,302.438167 212.965563,303.26948 213.532061,304.32874 C214.09856,305.387999 214.400243,306.532198 214.400243,308.868522 L214.400243,311.138454 C214.400243,313.474778 214.09856,314.618977 213.532061,315.678237 C212.965563,316.737496 212.134251,317.568809 211.074991,318.135307 C210.015732,318.701805 208.871533,319.003488 206.535209,319.003488 L168.265277,319.003488 C165.928952,319.003488 164.784753,318.701805 163.725494,318.135307 C162.666235,317.568809 161.834922,316.737496 161.268424,315.678237 C160.701926,314.618977 160.400243,313.474778 160.400243,311.138454 L160.400243,308.868522 C160.400243,306.532198 160.701926,305.387999 161.268424,304.32874 C161.834922,303.26948 162.666235,302.438167 163.725494,301.871669 C164.784753,301.305171 165.928952,301.003488 168.265277,301.003488 Z" id="Rectangle" fill="#FFFFFF"></path>
             </g>
-            <text id="Simp-leaf-y-(simplif" font-family="AcademyEngravedLetPlain, Academy Engraved LET" font-size="60" font-weight="normal" fill="#000000">
-                <tspan x="38.8837891" y="633">Simp-leaf-y</tspan>
-                <tspan x="25.5390625" y="718">(simplifying)</tspan>
+            <text id="Simp-leaf-y-(simplif" font-family="AcademyEngravedLetPlain, Academy Engraved LET" font-size="50" font-weight="normal" fill="#000000">
+                <tspan x="62.0698242" y="633">Simp-leaf-y</tspan>
+                <tspan x="50.9492188" y="704">(simplifying)</tspan>
             </text>
-            <text id="Simp-leaf-y-(repeati" font-family="AcademyEngravedLetPlain, Academy Engraved LET" font-size="60" font-weight="normal" fill="#000000">
-                <tspan x="1191.88379" y="633">Simp-leaf-y</tspan>
-                <tspan x="1198.88574" y="718">(repeating)</tspan>
+            <text id="Simp-leaf-y-(repeati" font-family="AcademyEngravedLetPlain, Academy Engraved LET" font-size="50" font-weight="normal" fill="#000000">
+                <tspan x="1215.06982" y="633">Simp-leaf-y</tspan>
+                <tspan x="1220.90479" y="704">(repeating)</tspan>
             </text>
-            <text id="Simp-leaf-y-(explain" font-family="AcademyEngravedLetPlain, Academy Engraved LET" font-size="60" font-weight="normal" fill="#000000">
-                <tspan x="797.883789" y="633">Simp-leaf-y</tspan>
-                <tspan x="791.321289" y="718">(explaining)</tspan>
+            <text id="Simp-leaf-y-(explain" font-family="AcademyEngravedLetPlain, Academy Engraved LET" font-size="50" font-weight="normal" fill="#000000">
+                <tspan x="821.069824" y="633">Simp-leaf-y</tspan>
+                <tspan x="815.601074" y="704">(explaining)</tspan>
             </text>
-            <text id="Simp-leaf-y-(confuse" font-family="AcademyEngravedLetPlain, Academy Engraved LET" font-size="60" font-weight="normal" fill="#000000">
-                <tspan x="410.883789" y="633">Simp-leaf-y</tspan>
-                <tspan x="422.280273" y="718">(confused)</tspan>
+            <text id="Simp-leaf-y-(confuse" font-family="AcademyEngravedLetPlain, Academy Engraved LET" font-size="50" font-weight="normal" fill="#000000">
+                <tspan x="434.069824" y="633">Simp-leaf-y</tspan>
+                <tspan x="443.566895" y="704">(confused)</tspan>
             </text>
         </g>
     </g>
