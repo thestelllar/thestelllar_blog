@@ -3,10 +3,10 @@ layout: post
 title: "Meet the Characters"
 date: 2023-01-26 10:00:40
 blurb: "A look at an example post using Bay Jekyll theme."
-og_image: /assets/img/content/post-example/Banner.jpg
+og_image: /assets/img/content/Meet_The_Characters.svg
 ---
 
-<img src="{{ "/assets/img/content/post-example/Banner.jpg" | absolute_url }}" alt="bay" class="post-pic"/>
+<img src="{{ "/assets/img/content/Meet_The_Characters.svg" | absolute_url }}" alt="Characters" class="post-pic"/>
 <br />
 <br />
 
