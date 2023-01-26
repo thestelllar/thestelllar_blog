@@ -46,14 +46,15 @@ We will meet when simplicity is what you seek for.
 <img src="{{ "/assets/img/content/BBF_complete.svg" | absolute_url }}" alt="BBF" class="post-pic"/>
 <i>(in unison)</i> We are Best-Buds-Forever. We might not be the brightest ones, but we sure are the best ones. We love acronyms, so we gave ourselves one - BBF.<br>
 We will be your point of contact, or if we may say - POCs!
-<br />
+<br /><br />
 
-<i>(Passing the mic back)</i>
+<i>(Passing the mic back to me)</i>
 
 May we have a tumultuous round of applause for all the characters!<br>
 With this, we have reached the end of our show. Thanks for coming by.<br>
 
-We are signing off for the day.<br>
+I am signing off for the day.<br>
+Palak
 
 <!-- #### Table of Contents
 
