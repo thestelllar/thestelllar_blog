@@ -18,7 +18,7 @@ Thanks for joining us for tonight's show — <b>Meet The Characters</b>.
 
 <i>(Drumroll, please)</i>
 
-After hours of brainstorming and doodling, I would like to introduce you to my finest creations — <b>The-One, Star-ry, Simp-leaf-y, and Best-Buds-Forever.</b>
+After hours of brainstorming and doodling, I would like to introduce you to my finest creations — <b>The-One, Star-ry, Simp-leaf-y,</b> and <b>Best-Buds-Forever.</b>
 
 <i>(Drumroll again, please)</i>
 
