@@ -54,8 +54,7 @@ We will be your point of contact, or if we may say - POCs!
 May we have a tumultuous round of applause for all the characters!<br>
 With this, we have reached the end of our show. Thanks for coming by.<br>
 
-I am signing off for the day.<br>
-Palak
+We are signing off for the day.<br>
 
 <!-- #### Table of Contents
 
