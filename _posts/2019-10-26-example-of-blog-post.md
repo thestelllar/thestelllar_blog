@@ -25,26 +25,27 @@ Every now and then, just for a change, they will sneak inside to say hello while
 
 <i>(Passing the mic)</i>
 
-<h3>The-One</h3><br>
+<h4>The-One</h4><br>
 <img src="{{ "/assets/img/content/TheOne_complete.svg" | absolute_url }}" alt="TheOne" class="post-pic"/>
-Hi everyone, I am The-One you are looking at currently (pun intended). I have a profound likeness for sharp corners and a strange preference for pink bows. I can't bear rounded objects around me, stealing a side glance at other characters.
-We will meet when you seek for the one. TheOne.
+Hi everyone, I am The-One you are looking at currently (pun intended). I have a profound likeness for sharp corners and a strange preference for pink bows. I can't bear rounded objects around me, stealing a side glance at other characters.<br>
+We will meet when you seek for the one. The-One.
 
 <i>(someone from the crowd) </i> Your moustache, sir!
 
-<h3>Star-ry</h3><br>
+<h4>Star-ry</h4><br>
 <img src="{{ "/assets/img/content/Starry_complete.svg" | absolute_url }}" alt="Starry" class="post-pic"/>
-Hi. Because of my inclination toward stories, I was named Star-ry. I perfectly get what people mean by — "starry eyes sparking up my darkest night."
+Hi! Because of my inclination toward stories, I was named Star-ry. I perfectly get what people mean by — "starry eyes sparking up my darkest night."<br>
 We will meet when it's star-ry time!
 
-<h3>Simp-leaf-y</h3><br>
+<h4>Simp-leaf-y</h4><br>
 <img src="{{ "/assets/img/content/Simpleafy_complete.svg" | absolute_url }}" alt="Simpleafy" class="post-pic"/>
-Simple is how everything should be. Because of my devotion towards simplicity, people(and leaves too) call me Simp-leaf-y.
+Simple is how everything should be. Because of my devotion towards simplicity, people(and leaves too) call me Simp-leaf-y.<br>
 We will meet when simplicity is what you seek for.
 
-<h3>Best-Buds-Forever</h3><br>
+<h4>Best-Buds-Forever</h4><br>
 <img src="{{ "/assets/img/content/BBF_complete.svg" | absolute_url }}" alt="BBF" class="post-pic"/>
-(in unison) We are Best-Buds-Forever. We might not be the brightest ones, but we sure are the best ones.
+<i>(in unison)</i> We are Best-Buds-Forever. We might not be the brightest ones, but we sure are the best ones. We love acronyms, so we gave ourselves one - BBF.<br>
+We will be your point of contact, or if we may say - POCs!
 
 <br />
 
