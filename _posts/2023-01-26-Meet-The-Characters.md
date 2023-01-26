@@ -10,7 +10,8 @@ og_image: /assets/img/content/Meet_The_Characters.svg
 <br />
 <br />
 
-(Mic checking)<br>
+<i>(Mic checking)</i>
+<br>
 Check, ahem, Check.
 
 Thanks for joining us for tonight's show — <b>Meet The Characters</b>.
