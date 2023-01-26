@@ -28,7 +28,7 @@ Every now and then, just for a change, they will sneak inside to say hello while
 
 <h4>The-One</h4><br>
 <img src="{{ "/assets/img/content/TheOne_complete.svg" | absolute_url }}" alt="TheOne" class="post-pic"/>
-Hi everyone, I am The-One you are looking at currently(pun intended). I have a profound likeness for sharp corners and a strange preference for pink bows. I can't bear rounded objects around me(stealing a side glance at other characters)<br>
+Hi everyone, I am The-One you are looking at currently<i>(pun intended)</i>. I have a profound likeness for sharp corners and a strange preference for pink bows. I can't bear rounded objects around me<i>(stealing a side glance at other characters)</i>.<br>
 We will meet when you seek for the one. The-One.
 
 <i>(someone from the crowd) </i> Your moustache, sir!
