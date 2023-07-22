@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "So, Tell us something interesting about yourself"
-date: 2023-07-21 20:24:00
+date: 2023-07-22 12:00:00
 blurb: "A look at an example post using Bay Jekyll theme."
 # og_image: /assets/img/content/Meet_The_Characters.svg
 ---
