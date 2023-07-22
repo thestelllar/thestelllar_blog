@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "I Bought Networks to an LLMs Fight"
+title: "I bought Networks to an LLMs fight"
 date: 2023-07-21 20:24:00
 blurb: "A look at an example post using Bay Jekyll theme."
 # og_image: /assets/img/content/Meet_The_Characters.svg
