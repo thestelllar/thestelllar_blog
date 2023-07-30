@@ -15,4 +15,4 @@ Each one of them has something interesting to offer to the club. And I’m looki
 
 Owing to a “calling in my life” that I immediately need to answer, I’ll have to leave the tale of the club's poetic start for the next blog. <br>
 
-Just in case you’re wondering about this <i>“calling in my life,”</i> it’s dinner time. I’ve to go.
+And, just in case you’re wondering about this <i>“calling in my life,”</i> it’s dinner time. I’ve to go.
