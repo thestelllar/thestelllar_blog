@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "A post a week means a post a week."
-date: 2023-07-30 20:30:00
+date: 2023-07-30 19:30:00
 blurb: "A look at an example post using Bay Jekyll theme."
 # og_image: /assets/img/content/Meet_The_Characters.svg
 ---
