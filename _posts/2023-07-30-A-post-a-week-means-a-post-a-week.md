@@ -7,7 +7,7 @@ blurb: "A look at an example post using Bay Jekyll theme."
 ---
 
 Apparently, not much of Ethernet was covered this week by me. Does that mean I’ve nothing to blog about? <br>
-Hell, no! Something interesting did happen this week. <br>
+Not really. Something interesting did happen this week. <br>
 
 We have started a new Poetry Club at MSR! And so far, 16 people have joined our team's channel. What does the future hold for this club? I honestly don’t know. But I can see, even with my myopic eyes, that four members are there to stay. <i>(Doesn’t this strongly resonate with four founders from the Hogwarts School of Witchcraft and Wizardry?!)</i><br>
 
