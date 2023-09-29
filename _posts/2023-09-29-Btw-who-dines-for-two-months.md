@@ -36,7 +36,7 @@ Really.
 <b>Highlight 1: Can I get my moong dal packet back, please?</b>
 <br>
 I went on my very first trek. And it was an absolute treat for me!
-The sandwiches were tasty, just so the organizers and volunteers know. (And I was one of the volunteers, just so you know.) The temperature difference between the top and bottom of the hill made me feel homesick. I didn't realize Bangalore had in itself not just the courage but the palpable ability to challenge the sense of winter I grew up with. And the pain. The stinging pain I experienced while posing for a group photograph and, at the same time, managing to accidentally insert my finger inside a long-forgotten piece of rock made me realize how closely we are shadowed by Death. Now, this time, it isn't me; it's them—The person on television who ventures out on a difficult trek on a fine day, experiences excruciating pain after being accidentally stung by a poisonous insect, and then somehow lives on to tell the tale. But not everyone is that lucky. So, you see, it's really them. And just for the sake of clearing my conscience, I did later contemplate that sting as God's intention of creating a new superhero, and I did secretly beg—Not a lizard, please. No offense, though. Finally, a special mention of the monkey who made me realize the importance of my moong dal packet by borrowing it the moment I needed it the most. And, of course, gratitude towards everyone who made the trek memorable.
+The sandwiches were tasty, just so the organizers and volunteers know. (And I was one of the volunteers, just so you know.) The temperature difference between the top and bottom of the hill made me feel homesick. I didn't realize Bangalore had in itself not just the courage but the palpable ability to challenge the sense of winter I grew up with. And the pain. The stinging pain I experienced while posing for a group photograph and, at the same time, managing to accidentally insert my finger inside a long-forgotten piece of rock made me realize how closely we are shadowed by Death. Now, this time, it isn't me; it's them—The person on television who ventures out on a difficult trek on a fine day, experiences excruciating pain after being accidentally stung by a poisonous insect, and then somehow lives on to tell the tale. But not everyone is that lucky. So, you see, it's really them. And just for the sake of clearing my conscience, I did later contemplate that sting as God's intention of creating a new superhero, and I did secretly beg—<i>Not lizard, please</i>. No offense, though. Finally, a special mention of the monkey who made me realize the importance of my moong dal packet by borrowing it the moment I needed it the most. And, of course, gratitude towards everyone who made the trek memorable.
 
 <b>Highlight 2: See you on Sunday, 6:30 a.m. at the Location for a 5 KM run!</b>
 <br>
@@ -44,9 +44,10 @@ We have continued our Sunday morning run for the past two weeks. Touch wood! I'm
 Of course, I can't take the credit all by myself. It really helps to have people running in front/beside you while you are carefully gauging your breath to estimate how long you can sustain. You generally end up doing better than what you had in mind. And that's honestly one of the Best. Feelings. Ever!
 
 <b>Highlight 3: Apparently, I can paint (a bit)</b>
+<br>
 We had an Art club session last Friday. And I moved my brushes for 2 hours continuously to finally get this. I'll let the flower speak for itself!
 <br>
-<img src="{{ "/assets/img/content/Flower-Paint-Combined.png" | absolute_url }}" alt="Flower-1" class="post-pic"/>
+<img src="{{ "/assets/img/content/Flower-Paint-Combined.jpeg" | absolute_url }}" alt="Flower-1" class="post-pic"/>
 <img src="{{ "/assets/img/content/Flower-Paint.png" | absolute_url }}" alt="Flower-1" class="post-pic"/>
 <br>
 <br>
