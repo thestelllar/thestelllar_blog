@@ -18,6 +18,8 @@ Alright.
 <br>
 Or maybe, if I tell you about a few highlights from my days of absence, we can skip that thing?
 <br>
+<i>(slight consensus)</i>
+<br>
 Okay, deal done.
 <br>
 So, the past few <s>days</s> months have gone pretty decent.
