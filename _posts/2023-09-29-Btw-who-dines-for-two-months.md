@@ -59,8 +59,7 @@ We had an Art club session last Friday. We were given the task of painting out a
 So there you have it: The <i>Highlights-from-my-days-of-absence.</i>
 
 <br>
-P.S. And I know you might be wondering why the title is—"btw, Who dines for two months?"
-When it should rather have been—"btw, Who dines for <i>exactly</i> two months?"
+P.S. I know you might be wondering why the title is "btw, Who dines for two months?" when it should rather have been "btw, Who dines for <i>exactly</i> two months?"
 <br> 
 .<br>
 .<br>
