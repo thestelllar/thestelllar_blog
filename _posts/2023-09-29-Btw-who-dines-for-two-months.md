@@ -6,7 +6,7 @@ blurb: "A look at an example post using Bay Jekyll theme."
 # og_image: /assets/img/content/Meet_The_Characters.svg
 ---
 
-Let's not talk about what happened to my "A post a week means a post week." Okay?
+Let's not talk about what happened to my <i>"A post a week means a post week."</i> Okay?
 <br>
 <br>
 <i>(slight objections)</i>
@@ -15,7 +15,8 @@ Let's not talk about what happened to my "A post a week means a post week." Okay
 Alright.
 <br>
 <br>
-<i>(Brain cogs running)</i>
+<i>(tick-tock)</i>
+<br>
 <br>
 Or maybe, if I tell you about a few highlights from my days of absence, we can skip that thing?
 <br>
@@ -48,7 +49,6 @@ Of course, I can't take the credit all by myself. It really helps to have people
 We had an Art club session last Friday. And I moved my brushes for 2 hours continuously to finally get this. I'll let the flower speak for itself!
 <br>
 <img src="{{ "/assets/img/content/Flower-Paint-Combined.jpeg" | absolute_url }}" alt="Flower-1" class="post-pic"/>
-<img src="{{ "/assets/img/content/Flower-Paint.png" | absolute_url }}" alt="Flower-1" class="post-pic"/>
 <br>
 <br>
 So there you have it: the Highlights-from-my-days-of-absence.
