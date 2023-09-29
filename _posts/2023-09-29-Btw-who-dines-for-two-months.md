@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "btw, who dines for two months?"
-date: 2023-09-29 22:30:00
+date: 2023-09-29 00:00:00
 blurb: "A look at an example post using Bay Jekyll theme."
 # og_image: /assets/img/content/Meet_The_Characters.svg
 ---
@@ -25,6 +25,7 @@ Or maybe, if I tell you about a few highlights from my days of absence, we can s
 <i>(tick-tock)</i>
 <br>
 Okay, deal done.
+<br>
 <br>
 So, the past few <s>days</s> months have gone pretty decent.
 <br>
