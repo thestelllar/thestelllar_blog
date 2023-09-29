@@ -66,4 +66,4 @@ P.S. And I know you might be wondering why the title is—"btw, Who dines for tw
 .<br>
 When it should rather have been—"btw, Who dines for <i>exactly</i> two months?"
 
-If the joke made no sense, then know this one last thing—Sure, It's me. But, it's you, too, <i>at fault.</i>
+If the joke made no sense, then know this one last thing—<br>Sure, It's me. But, it's you, too, <i>at fault.</i>
