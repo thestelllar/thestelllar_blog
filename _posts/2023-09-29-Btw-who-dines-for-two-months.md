@@ -32,8 +32,7 @@ Of course, I can't take the credit all by myself. It really helps to have people
 
 <b>Highlight 3: Apparently, I can paint (a bit)</b>
 We had an Art club session last Friday. And I moved my brushes for 2 hours continuously to finally get this. I'll let the flower speak for itself!
-<img src="{{ "/assets/img/content/Flower-Paint-1.jpeg" | absolute_url }}" alt="Flower-1" class="post-pic"/>
-<img src="{{ "/assets/img/content/Flower-Paint-2.jpeg" | absolute_url }}" alt="Flower-2" class="post-pic"/>
+<img src="{{ "/assets/img/content/Flower-Paint.jpeg" | absolute_url }}" alt="Flower-1" class="post-pic"/>
 So there you have it: the Highlights-from-my-days-of-absence.
 
 And I know you are wondering why the title is—"Btw, Who dines for two months?" When it should have instead been—"Btw, Who dines for exactly two months?"
