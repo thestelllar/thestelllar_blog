@@ -37,7 +37,7 @@ So, the past few <s>days</s> months have gone pretty decent.
 
 <b>Highlight 1: Can I get my moong dal packet back, please?</b>
 <br>
-I went on my very first trek, and it was an absolute treat for me! The sandwiches were tasty, just so the organizers and volunteers know <i>(and I was one of the volunteers, just so you know)</i>. The temperature difference between the top and bottom of the hill made me feel homesick. I didn’t realize Bangalore had in itself not just the courage but the palpable ability to challenge the sense of winter I grew up with.
+I went on my very first trek, and it was an absolute treat for me! The sandwiches were tasty, just so the organizers and volunteers know <i>(and I was one of the volunteers, just so you know)</i>. The temperature difference between the top and bottom of the hill made me feel homesick. I didn’t realize Bangalore had in itself not just the courage but the palpable ability to challenge the sense of winter I have grown up with.
 <br>
 And the pain—the stinging pain I experienced while posing for a group photograph because of accidentally inserting my finger inside a long-forgotten piece of rock—made me realize how closely we are shadowed by Death. Now, this time, it isn’t me; it’s them—the person on television who ventures out on a difficult trek on a fine day, experiences excruciating pain after being accidentally stung by a poisonous insect, and then somehow lives on to tell the tale. But not everyone is that lucky. So, you see, it’s really them. And just for the sake of clearing my conscience, I did later contemplate that sting as God’s intention of creating a new superhero, and I did secretly beg—<i>Not lizard, please</i>. No offense, though.
 <br>
