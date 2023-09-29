@@ -20,7 +20,7 @@ Okay, deal done.
 <br>
 So, the past few <s>days</s> months have gone pretty decent.
 <br>
-<i>Sidetracking a bit,
+<i>Sidetracking a bit
 <br>
 I apologize to all those moments that don't make the cut to my bloated sense of Highlights-from-my-days-of-absence list.
 Just know this one thing—it isn't you; it's me.
@@ -40,7 +40,7 @@ Of course, I can't take the credit all by myself. It really helps to have people
 
 <b>Highlight 3: Apparently, I can paint (a bit)</b>
 <br>
-We had an Art club session last Friday. And I moved my brushes for 2 hours continuously to finally get this. I'll let the flower speak for itself!
+We had an Art club session last Friday. We were given the task of painting out a flower. I'll let the flower speak for itself!
 <br>
 <br>
 <img src="{{ "/assets/img/content/Flower-Paint-Combined.jpeg" | absolute_url }}" alt="Flower-1" class="post-pic"/>
