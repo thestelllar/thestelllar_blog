@@ -61,4 +61,4 @@ When it should rather have been—"btw, Who dines for <i>exactly</i> two months?
 .<br>
 .<br>
 .<br>
-If the joke made no sense, then know this one last thing—<br>Sure, It's me. But, it might be you, too.<i> at fault.</i>
+If the joke made no sense, then know this one last thing—Sure, It's me. But, it might be you, too.<i> at fault.</i>
