@@ -30,7 +30,7 @@ Okay, deal done.
 So, the past few <s>days</s> months have gone pretty decent.
 <br>
 <br>
-<i>Sidetracking a bit
+<i>Note:
 <br>
 I apologize to all those moments that don't make the cut to my bloated sense of Highlights-from-my-days-of-absence list.
 Just know this one thing—it isn't you; it's me.
@@ -66,4 +66,6 @@ P.S. And I know you might be wondering why the title is—"btw, Who dines for tw
 .<br>
 When it should rather have been—"btw, Who dines for <i>exactly</i> two months?"
 
+<br>
+<br>
 If the joke made no sense, then know this one last thing—<br>Sure, It's me. But, it's you, too, <i>at fault.</i>
