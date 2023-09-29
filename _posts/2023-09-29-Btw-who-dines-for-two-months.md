@@ -6,7 +6,9 @@ blurb: "A look at an example post using Bay Jekyll theme."
 # og_image: /assets/img/content/Meet_The_Characters.svg
 ---
 
-Let's not talk about what happened to my <i>"A post a week means a post week."</i> Okay?
+Let's not talk about what happened to my <i>"A post a week means a post week."</i>
+<br>
+Okay?
 <br>
 <i>(slight objections)</i>
 <br>
