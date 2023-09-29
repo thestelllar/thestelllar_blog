@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "btw, who dines for two months?"
-date: 2023-09-28 20:30:00
+date: 2023-09-29 00:00:00
 blurb: "A look at an example post using Bay Jekyll theme."
 # og_image: /assets/img/content/Meet_The_Characters.svg
 ---
@@ -22,16 +22,19 @@ Or maybe, if I tell you about a few highlights from my days of absence, we can s
 <br>
 <i>(consensus?)</i>
 <br>
+<i>(tick-tock)</i>
+<br>
 Okay, deal done.
 <br>
 So, the past few <s>days</s> months have gone pretty decent.
+<br>
 <br>
 <i>Sidetracking a bit
 <br>
 I apologize to all those moments that don't make the cut to my bloated sense of Highlights-from-my-days-of-absence list.
 Just know this one thing—it isn't you; it's me.
 <br>
-Really.
+Honestly.
 </i>
 
 <b>Highlight 1: Can I get my moong dal packet back, please?</b>
@@ -54,6 +57,6 @@ We had an Art club session last Friday. We were given the task of painting out a
 <br>
 So there you have it: The <i>Highlights-from-my-days-of-absence.</i>
 
-And I know you are wondering why the title is—"Btw, Who dines for two months?" When it should have instead been—"Btw, Who dines for <i>exactly</i> two months?"
+And I know you are wondering why the title is—"btw, Who dines for two months?" When it should have instead been—"btw, Who dines for <i>exactly</i> two months?"
 
 And if the joke doesn't make sense, then know this one last thing—Sure, It's me. But, it's you, too, <i>at fault.</i>
