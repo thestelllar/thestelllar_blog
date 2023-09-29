@@ -58,12 +58,9 @@ So there you have it: The <i>Highlights-from-my-days-of-absence.</i>
 
 <br>
 P.S. And I know you might be wondering why the title is—"btw, Who dines for two months?"
+When it should rather have been—"btw, Who dines for <i>exactly</i> two months?"
 <br> 
 .<br>
 .<br>
 .<br>
-When it should rather have been—"btw, Who dines for <i>exactly</i> two months?"
-
-<br>
-<br>
 If the joke made no sense, then know this one last thing—<br>Sure, It's me. But, it's you, too, <i>at fault.</i>
