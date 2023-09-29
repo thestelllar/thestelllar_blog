@@ -12,7 +12,6 @@ Let's not talk about what happened to my "A post a week means a post week." Okay
 <i>(slight objections)</i>
 <br>
 <br>
-<br>
 Alright.
 <br>
 <br>
@@ -46,10 +45,13 @@ Of course, I can't take the credit all by myself. It really helps to have people
 
 <b>Highlight 3: Apparently, I can paint (a bit)</b>
 We had an Art club session last Friday. And I moved my brushes for 2 hours continuously to finally get this. I'll let the flower speak for itself!
+<br>
+<img src="{{ "/assets/img/content/Flower-Paint-Combined.png" | absolute_url }}" alt="Flower-1" class="post-pic"/>
 <img src="{{ "/assets/img/content/Flower-Paint.png" | absolute_url }}" alt="Flower-1" class="post-pic"/>
+<br>
 <br>
 So there you have it: the Highlights-from-my-days-of-absence.
 
 And I know you are wondering why the title is—"Btw, Who dines for two months?" When it should have instead been—"Btw, Who dines for <i>exactly</i> two months?"
 
-And if the joke doesn't make sense, then know this one last thing—Sure, It's me. But, it's you, too, at fault.
+And if the joke doesn't make sense, then know this one last thing—Sure, It's me. But, it's you, too, <i>at fault.</i>
