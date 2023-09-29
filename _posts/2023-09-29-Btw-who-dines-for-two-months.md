@@ -10,7 +10,7 @@ Let's not talk about what happened to my <i>"A post a week means a post week."</
 <br>
 Okay?
 <br>
-<i>(slight objections)</i>
+<i>(slight objection)</i>
 <br>
 Alright.
 <br>
@@ -18,7 +18,9 @@ Alright.
 <br>
 Or maybe, if I tell you about a few highlights from my days of absence, we can skip that thing?
 <br>
-<i>(slight consensus)</i>
+<i>(tick-tock)</i>
+<br>
+<i>(consensus?)</i>
 <br>
 Okay, deal done.
 <br>
