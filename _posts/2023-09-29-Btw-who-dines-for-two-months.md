@@ -58,6 +58,11 @@ We had an Art club session last Friday. We were given the task of painting out a
 <br>
 So there you have it: The <i>Highlights-from-my-days-of-absence.</i>
 
-And I know you are wondering why the title is—"btw, Who dines for two months?" When it should have instead been—"btw, Who dines for <i>exactly</i> two months?"
+<br>
+P.S. And I know you would be wondering why the title is—"btw, Who dines for two months?" 
+.<br>
+.<br>
+.<br>
+It should rather be—"btw, Who dines for <i>exactly</i> two months?"
 
-And if the joke didn't make sense, then know this one last thing—Sure, It's me. But, it's you, too, <i>at fault.</i>
+If the joke made no sense, then know this one last thing—Sure, It's me. But, it's you, too, <i>at fault.</i>
