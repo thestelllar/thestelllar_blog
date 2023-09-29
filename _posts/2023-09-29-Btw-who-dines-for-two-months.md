@@ -31,9 +31,7 @@ So, the past few <s>days</s> months have gone pretty decent.
 <br>
 <br>
 <i>Note: I apologize to all those moments that don't make the cut to my bloated sense of Highlights-from-my-days-of-absence list.
-Just know this one thing—it isn't you; it's me.
-<br>
-Honestly.
+Just know this one thing—it isn't you; it's me. Honestly.
 </i>
 
 <b>Highlight 1: Can I get my moong dal packet back, please?</b>
