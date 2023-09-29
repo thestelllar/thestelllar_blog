@@ -7,25 +7,19 @@ blurb: "A look at an example post using Bay Jekyll theme."
 ---
 
 Let's not talk about what happened to my <i>"A post a week means a post week."</i> Okay?
-<br>
-<br>
+<br><br>
 <i>(slight objections)</i>
-<br>
-<br>
+<br><br>
 Alright.
-<br>
-<br>
+<br><br>
 <i>(tick-tock)</i>
-<br>
-<br>
+<br><br>
 Or maybe, if I tell you about a few highlights from my days of absence, we can skip that thing?
-<br>
-<br>
+<br><br>
 Okay, deal done.
-<br>
-<br>
+<br><br>
 So, the past few <s>days</s> months have gone pretty decent.
-<br>
+<br><br>
 <i>Sidetracking a bit,
 <br>
 I apologize to all those moments that don't make the cut to my bloated sense of Highlights-from-my-days-of-absence list.
@@ -48,10 +42,11 @@ Of course, I can't take the credit all by myself. It really helps to have people
 <br>
 We had an Art club session last Friday. And I moved my brushes for 2 hours continuously to finally get this. I'll let the flower speak for itself!
 <br>
+<br>
 <img src="{{ "/assets/img/content/Flower-Paint-Combined.jpeg" | absolute_url }}" alt="Flower-1" class="post-pic"/>
 <br>
 <br>
-So there you have it: the Highlights-from-my-days-of-absence.
+So there you have it: The <i>Highlights-from-my-days-of-absence.</i>
 
 And I know you are wondering why the title is—"Btw, Who dines for two months?" When it should have instead been—"Btw, Who dines for <i>exactly</i> two months?"
 
