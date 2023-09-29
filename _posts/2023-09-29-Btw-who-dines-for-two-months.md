@@ -45,8 +45,8 @@ The sandwiches were tasty, just so the organizers and volunteers know. (And I wa
 
 <b>Highlight 2: See you on Sunday, 6:30 a.m. at the <i>Location</i> for a 5 KM run!</b>
 <br>
-We have continued our Sunday morning run for the past two weeks. Touch wood! I'm genuinely excited to continue this ritual for weeks/months/years (pick as per your choice). I can now, apparently, run 3.5 km continuously! That's an improvement over my previous best record of 2 km non-stop. That's something, isn't it? Hopefully, I'll soon increase it to 5 km! <i>Fingers crossed.</i>
-Of course, I can't take the credit all by myself. It really helps to have people running in front/beside you while you are carefully gauging your breath to estimate how long you can sustain. You generally end up doing better than what you had in mind. And that's honestly one of the Best. Feelings. Ever!
+We have continued our Sunday morning run for the past two weeks. Touch wood! I'm genuinely excited to continue this ritual for weeks/months/years (pick as per your choice) to come. I can now, apparently, run 3.5 km continuously! That's an improvement over my previous best record of 2 km non-stop. That's something, isn't it? Hopefully, I'll soon increase it to 5 km! <i>Fingers crossed.</i>
+Of course, I can't take the credit all by myself. It really helps to have people running in front/beside you while you are carefully gauging your breath to estimate how long you can sustain. You generally end up doing better than what you had in mind. And that's honestly one of the <i>Best. Feelings. Ever!</i>
 
 <b>Highlight 3: Apparently, I can paint (a bit)</b>
 <br>
