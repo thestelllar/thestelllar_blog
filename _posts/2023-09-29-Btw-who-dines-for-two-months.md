@@ -10,7 +10,7 @@ Let's not talk about what happened to my <i>"A post a week means a post week"</i
 <br>
 Okay?
 <br>
-<i>(slight objection)</i>
+<i>(murmurs of disapproval)</i>
 <br>
 Alright.
 <br>
