@@ -59,7 +59,7 @@ We had an Art club session last Friday. We were given the task of painting out a
 <img src="{{ "/assets/img/content/Flower-Paint-Combined.jpeg" | absolute_url }}" alt="Flower-1" class="post-pic"/>
 <br>
 <br>
-So there you have it: The <i>Highlights-from-my-days-of-absence.</i>
+So there we have it: The <i>Highlights-from-my-days-of-absence.</i>
 
 <br>
 P.S. I know you might be wondering why the title is "btw, Who dines for two months?" when it should rather have been "btw, Who dines for <i>exactly</i> two months?"
