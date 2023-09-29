@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Btw, who dines for two months?"
+title: "btw, who dines for two months?"
 date: 2023-09-28 20:30:00
 blurb: "A look at an example post using Bay Jekyll theme."
 # og_image: /assets/img/content/Meet_The_Characters.svg
