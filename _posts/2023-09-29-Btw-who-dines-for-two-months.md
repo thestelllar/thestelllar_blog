@@ -53,7 +53,7 @@ Of course, I can't take the credit all by myself. It really helps to have people
 
 <b>Highlight 3: Apparently, I can paint (a bit)</b>
 <br>
-We had an Art club session last Friday. We were given the task of painting out a flower. I'll let the flower speak for itself!
+We had an Art Club session last Friday. During the session, we were given the task of painting a flower. I'll let the flowers speak for themselves!
 <br>
 <br>
 <img src="{{ "/assets/img/content/Flower-Paint-Combined.jpeg" | absolute_url }}" alt="Flower-1" class="post-pic"/>
