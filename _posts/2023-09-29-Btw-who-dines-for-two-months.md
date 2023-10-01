@@ -37,7 +37,7 @@ So, the past few <s>days</s> months have gone pretty decent.
 
 <b>Highlight 1: Can I get my moong dal packet back, please?</b>
 <br>
-I went on my very first trek, and it was an absolute treat for me! The sandwiches were tasty, just so the organizers and volunteers know <i>(and I was one of the volunteers, just so you know)</i>. The temperature difference between the top and bottom of the hill made me feel homesick. I didn’t realize Bangalore had in itself not just the courage but the palpable ability to challenge the sense of winter I had grown up with.
+I went on my very first trek, and it was an absolute treat for me! The sandwiches<i>(home-made)</i> were tasty, just so the organizers and volunteers know <i>(and I was one of the volunteers, just so you know)</i>. The temperature difference between the top and bottom of the hill made me feel homesick. I didn’t know Bangalore had in itself not just the courage but the palpable ability to challenge the sense of winter I had grown up with.
 <br>
 And the pain—the stinging pain I experienced after being mysteriously stung while posing for a group photograph because of accidentally sliding my finger over a long-forgotten piece of rock harboring a potentially poisonous insect—made me realize how closely we are shadowed by Death. Now, this time, it isn’t me; it’s them—the person on television who ventures out on a difficult trek on a fine day, experiences excruciating pain after being accidentally stung by a poisonous insect and then somehow lives on to tell the tale. But not everyone is that lucky. So, you see, it’s really them. And just for the sake of clearing my conscience, I did later contemplate that sting as God’s intention of creating a new superhero.
 <br>
@@ -49,7 +49,7 @@ Finally, a special mention to the monkey who made me realize the importance of m
 <b>Highlight 2: See you on Sunday, 6:30 a.m. at the <i>Location</i> for a 5 KM run!</b>
 <br>
 We(some folks from MSR, including me) have been continuing our Sunday morning run for the past two weeks. Touch wood! I'm genuinely excited to continue this ritual for weeks/months/years (pick as per your choice) to come. I can now, apparently, run 3.5 km continuously! That's an improvement over my previous best record of 2 km non-stop. That's something, isn't it? Hopefully, I'll soon increase it to 5 km! <i>Fingers crossed.</i>
-Of course, I can't take the credit all by myself. It really helps to have people running in front/beside you while you are carefully gauging your breath to estimate how long you can sustain. In such situations, you generally end up doing better than what you had in mind. And that's, honestly, one of <i>The. Best. Feelings.</i>
+Of course, I can't take the credit all by myself. It really helps to have people running in front/beside/behind you while you are carefully gauging your breath to estimate how long you can sustain. In such situations, you generally end up doing better than what you had in mind. And that's, honestly, one of <i>The. Best. Feelings.</i>
 
 <b>Highlight 3: Apparently, I can paint (a bit)</b>
 <br>
