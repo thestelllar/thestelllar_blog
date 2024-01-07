@@ -33,4 +33,4 @@ P.S. And, just in case you are curious, here’s my update — <br>
 5. Regarding negative self narrations, during a conversation one of my friends helped me realize how I’ve started using “I have to do <i>something</i>.” a lot more than “I want to do <i>something</i>.” It was then I realized how very true it was. So, I’m working on it. <br>
 6. One post every week. So far, so good! <br>
 
-That's all from my side.
+That's all from my side. See you next week.
