@@ -31,3 +31,5 @@ To be honest, I’m pretty impressed with my daily exercise routine. There’s n
 I did quite some amount of journaling given the amount of confusion that seems to surround me. Though not every single day, so that’s something I’ll work upon.
 Regarding negative self narrations, during a conversation one of my friends helped me realize how I’ve started using “I have to do something” a lot more than “I want to do something.” It was then I realized how very true it was. So, I’m working on it.
 One post every week. So far, so good!
+
+That's all from my side.
