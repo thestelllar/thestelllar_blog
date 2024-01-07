@@ -28,7 +28,7 @@ P.S. And, just in case you are curious, here’s my update — <br>
 
 1. I did my 5K run this week.<br>
 2. I’ve finished reading the novel, The Inquisitor’s Tale by Adam Gidwitz. I’ve been reading for a month now. It was a decent read, though I think it got a bit stretched towards the end. I absolutely loved the illustrations that were there along the margins. I might start The Hitchhiker's Guide to the Galaxy next. Let’s see.<br>
-3. To be honest, I’m pretty impressed with my daily exercise routine. There’s nothing fancy to it. It is mostly about more hours walking/standing than sitting, a bit of stretching in the morning. And table tennis of course xd. That’s all. And, I’m fine with it. <br>
+3. To be honest, I’m pretty impressed with my daily exercise routine. There’s nothing fancy to it. It is mostly about ensuring more hours walking/standing than sitting, a bit of stretching in the morning. And table tennis of course xd. That’s all. And, I’m fine with it. <br>
 4. I did quite some amount of journaling given the amount of confusion that seems to surround me. Though not every single day, so that’s something I’ll work upon. <br>
 5. Regarding negative self narrations, during a conversation one of my friends helped me realize how I’ve started using “I have to do <i>something</i>.” a lot more than “I want to do <i>something</i>.” It was then I realized how very true it was. So, I’m working on it. <br>
 6. One post every week. So far, so good! <br>
