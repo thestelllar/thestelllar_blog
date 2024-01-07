@@ -6,6 +6,11 @@ blurb: "A look at an example post using Bay Jekyll theme."
 # og_image: /assets/img/content/Meet_The_Characters.svg
 ---
 
+Hi from the other side of 2024. As promised, I’m back this week. I don’t have much planned for today other than sharing two of my old poems that I’d written for my college magazine — Just Another Magazine (JAM). JAM was one of the best things that had happened to me during my college life. Though, I can’t say if my feelings were reciprocated XD.
+<br>
+The first poem — The Endgame, is pretty close to my heart. It was my first attempt at poetry and one that made me realize that writing might just be my thing. I can’t take full credit for the poem. It was one of my seniors who helped me polish the initial draft. So, thanks for that!
+<br>
+
 <h1>The Endgame</h1> <i> (from JAM 18 issue) </i>
 <br><br>
 <img src="{{ "/assets/img/content/Endgame.png" | absolute_url }}" alt="Endgame poem" class="post-pic"/>
