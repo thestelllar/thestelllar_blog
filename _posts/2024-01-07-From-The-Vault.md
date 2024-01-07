@@ -10,7 +10,7 @@ Greetings from the other side of 2024! As promised, I’m back this week. I don�
 <br><br>
 The first poem — The Endgame, is pretty close to my heart. It was my first attempt at poetry and one that made me realize that writing might just be my thing. I can’t take full credit for the poem. It was one of my seniors who helped me polish the initial draft. So, thanks for that!
 <br><br>
-The second poem — Ragnarok, was written sometime around February 2020. I remember how I used to take long walks in my campus in search of an <i>“inspiration”</i> tree. It was fun <i>(and cold)</i>.
+The second poem — Ragnarok, was written sometime around February 2020. I recall taking long walks on my campus in search of an <i>“inspiration”</i> tree. It was fun <i>(and cold)</i>.
 <br>
 
 <h1>The Endgame</h1> <i> (from JAM 18 issue) </i>
