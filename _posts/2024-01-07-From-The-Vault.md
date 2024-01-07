@@ -7,3 +7,4 @@ blurb: "A look at an example post using Bay Jekyll theme."
 ---
 
 <img src="{{ "/assets/img/content/Ragnarok.png" | absolute_url }}" alt="Hill" class="post-pic"/>
+<img src="{{ "/assets/img/content/Endgame.png" | absolute_url }}" alt="Hill" class="post-pic"/>
