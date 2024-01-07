@@ -7,7 +7,9 @@ blurb: "A look at an example post using Bay Jekyll theme."
 ---
 
 <h1>The Endgame</h1>
+<i> From Jam 18 issue </i>
 <img src="{{ "/assets/img/content/Endgame.png" | absolute_url }}" alt="Hill" class="post-pic"/>
 
-<h> Ragnarok </h1>
+<h1> Ragnarok </h1>
+<i> From Jam 19 issue </i>
 <img src="{{ "/assets/img/content/Ragnarok.png" | absolute_url }}" alt="Hill" class="post-pic"/>
