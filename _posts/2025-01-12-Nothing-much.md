@@ -1,14 +1,14 @@
 ---
 layout: post
 title: "Nothing much"
-date: 2025-01-11 00:00:00
+date: 2025-01-12 00:00:00
 blurb: "A look at an example post using Bay Jekyll theme."
 # og_image: /assets/img/content/Meet_The_Characters.svg
 ---
 
 happened this week. I felt nice.
 
-🌼 Initial 5K is the hardest. After that, it’s just about carrying on. I ran 12 KM this week.
+🌼 Initial 5 KM is the hardest. After that, it’s just about carrying on. I ran 12 KM this week.
 
 🌼 It’s been a while since I started watching the <i>OG</i> Mahabharat. Now I really know how oblivious I was throughout my college life.
 
