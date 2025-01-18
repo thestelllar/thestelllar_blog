@@ -6,7 +6,7 @@ blurb: "A look at an example post using Bay Jekyll theme."
 # og_image: /assets/img/content/Meet_The_Characters.svg
 ---
 
-happened this week. It felt good.
+happened this week.
 
 🌼 Initial 5 KM is the hardest. After that, it’s just about carrying on. I ran 12 KM this week.
 
