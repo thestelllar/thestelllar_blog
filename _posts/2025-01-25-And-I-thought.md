@@ -16,4 +16,8 @@ I think we did a decent job. As a result, I now <i>unofficially</i> own six plan
 
 P.S. I’ll save that “one more thing” for another post to maintain my one-post-per-week streak this year. Hopefully, I’ll have many more such “one more things.” 🙂
 
-<img src="{{ "/assets/img/capsicum.svg" | absolute_url }}" alt="Tree" class="post-pic"/>
+<img src="{{ "/assets/img/og_pot.jpeg" | absolute_url }}" alt="Tree" class="post-pic"/>
+
+<img src="{{ "/assets/img/gardening_equips.jpeg" | absolute_url }}" alt="Tree" class="post-pic"/>
+
+<img src="{{ "/assets/img/new_pots.jpeg" | absolute_url }}" alt="Tree" class="post-pic"/>
