@@ -25,4 +25,4 @@ p.s. I’ll save that “one more thing” for another post to maintain my one-p
 
 <img src="{{ "/assets/img/new_pots.jpeg" | absolute_url }}" alt="Tree" class="post-pic"/>
 
-<img src="{{ "/assets/img/all_plant.jpeg" | absolute_url }}" alt="Tree" class="post-pic"/>
+<img src="{{ "/assets/img/all_plants.jpeg" | absolute_url }}" alt="Tree" class="post-pic"/>
