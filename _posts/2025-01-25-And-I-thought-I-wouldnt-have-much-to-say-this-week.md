@@ -6,7 +6,7 @@ blurb: "A look at an example post using Bay Jekyll theme."
 # og_image: /assets/img/content/Meet_The_Characters.svg
 ---
 
-After finishing last week's post I realised there was one more thing I could have talked about. Remembering my remarkable streak from last year—two posts followed by a long, dead silence—I knew better than to jinx my achievement with twice on the same day. So, I strategized and saved it for the coming week. For this week’s post. Interestingly, I do have something more to talk about this week than just feeding off last week's savings.
+After finishing last week's post I realised there was one more thing I could have talked about. Remembering my remarkable streak from last year—two posts followed by a long, dead silence—I knew better than to jinx my achievement by posting twice on the same day. So, I strategized and saved it for the coming week. For this week’s post. Interestingly, I do have something more to talk about this week than just feeding off last week's savings.
 <br>
 Remember, I told you about my to-be capsicum plant in last week’s post? Within a few days, those countless seedlings outgrew their home. It was time to find a new home for them. I had two unused pots which came in a set of three—one of them was already harboring a life: my yellow kalanchoe. It’s doing well, just in case you were wondering. With the pots already at my disposal, all I needed was good quality soil, so I <i>blinked it</i> first thing Friday morning.
 <br>
