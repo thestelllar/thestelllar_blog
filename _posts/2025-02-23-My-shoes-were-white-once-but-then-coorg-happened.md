@@ -42,7 +42,6 @@ Overall, this whole walk was beautiful. My shoes? They were white once.
 <img src="{{ "/assets/img/coorg_trees.jpeg" | absolute_url }}" alt="Tree" class="post-pic"/>
 
 <br />
-<br />
 <center><b>Random clicks</b><center>
 <center><i>A friend taught me how to take <i>these kind of</i> pictures. Top right one seems the best</i></center>
 <img src="{{ "/assets/img/photo_angle.jpeg" | absolute_url }}" alt="Tree" class="post-pic"/>
