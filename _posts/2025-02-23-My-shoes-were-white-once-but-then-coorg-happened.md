@@ -29,24 +29,35 @@ Overall, this whole walk was beautiful. My shoes? They were white once.
 
 <br/>
 
-<center>coffee flower and coffee cherry</center>
+<br />
+<center><b>Coffee Flower and Coffee Cherry</b></center>
 <img src="{{ "/assets/img/coffee_flower.jpeg" | absolute_url }}" alt="Tree" class="post-pic"/>
 
-<center>coorg flowers</center>
+<br />
+<center><b>Coorg Flowers</b></center>
+<center><i>I think I'm decent at clicking pictures!</i></center>
 <img src="{{ "/assets/img/coorg_flowers.jpeg" | absolute_url }}" alt="Tree" class="post-pic"/>
-<center><i>I'm decent at clicking pictures!</i></center>
 
-<center>coorg trees</center>
-<img src="{{ "/assets/img/coorg_trees.jpeg" | absolute_url }}" alt="Tree" class="post-pic"/>
+<br />
+<center><b>Coorg Trees</b></center>
 <center><i>pepper vines, cotton silk tree, betel nut tree, silver oak with pepper vines, sleeping hibiscus flower, insulin plan </i></center>
+<img src="{{ "/assets/img/coorg_trees.jpeg" | absolute_url }}" alt="Tree" class="post-pic"/>
 
-<center><center>
-<img src="{{ "/assets/img/photo_angle.jpeg" | absolute_url }}" alt="Tree" class="post-pic"/>
+<br />
+<center><b>Random clicks</b><center>
 <center><i>A friend taught me how to that <i>these kind of</i> pictures. Top right one seems the best</i></center>
+<img src="{{ "/assets/img/photo_angle.jpeg" | absolute_url }}" alt="Tree" class="post-pic"/>
 
-<center>Few interesting things</center>
+<br />
+<center><b>Few interesting things</b></center>
 <img src="{{ "/assets/img/coorg_things.jpeg" | absolute_url }}" alt="Tree" class="post-pic"/>
 <center><i>A wooden bird (I tried posing with it xd), some plants in "hands-up" punishment, mandrain orange leaf, wolf spider web, pink bunny, avacodo previously mistaken as guava :/</i></center>
 
-<center>Finally, my shoes</center>
+<br />
+<center><b>My collection</b></center>
+<center><i>A sleeping hibiscus, few coffee flowers, bird's eye chillis, green pepper seed, insulin leaf, mandarin orange leaf, yellow flower with sweet nectar, purple flower turned black and finally a coffee cherry</i></center>
+<img src="{{ "/assets/img/my_collection.jpeg" | absolute_url }}" alt="Tree" class="post-pic"/>
+
+<br />
+<center><b>Finally, my shoes</b></center>
 <img src="{{ "/assets/img/shoes.jpeg" | absolute_url }}" alt="Tree" class="post-pic"/>
