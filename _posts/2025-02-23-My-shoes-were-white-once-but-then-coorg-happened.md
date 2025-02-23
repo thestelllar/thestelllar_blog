@@ -27,16 +27,26 @@ He pointed out many other interesting things—the cotton silk tree, insulin pla
 
 Overall, this whole walk was beautiful. My shoes? They were white once.
 
+<br/>
+
+<center>coffee flower and coffee cherry</center>
 <img src="{{ "/assets/img/coffee_flower.jpeg" | absolute_url }}" alt="Tree" class="post-pic"/>
 
-<center>coffee flower and cherry</center>
-
+<center>coorg flowers</center>
 <img src="{{ "/assets/img/coorg_flowers.jpeg" | absolute_url }}" alt="Tree" class="post-pic"/>
+<center><i>I'm decent at clicking pictures!</i></center>
 
+<center>coorg trees</center>
 <img src="{{ "/assets/img/coorg_trees.jpeg" | absolute_url }}" alt="Tree" class="post-pic"/>
+<center><i>pepper vines, cotton silk tree, betel nut tree, silver oak with pepper vines, sleeping hibiscus flower, insulin plan </i></center>
 
-<img src="{{ "/assets/img/coorg_things.jpeg" | absolute_url }}" alt="Tree" class="post-pic"/>
-
+<center><center>
 <img src="{{ "/assets/img/photo_angle.jpeg" | absolute_url }}" alt="Tree" class="post-pic"/>
+<center><i>A friend taught me how to that <i>these kind of</i> pictures. Top right one seems the best</i></center>
 
+<center>Few interesting things</center>
+<img src="{{ "/assets/img/coorg_things.jpeg" | absolute_url }}" alt="Tree" class="post-pic"/>
+<center><i>A wooden bird (I tried posing with it xd), some plants in "hands-up" punishment, mandrain orange leaf, wolf spider web, pink bunny, avacodo previously mistaken as guava :/</i></center>
+
+<center>Finally, my shoes</center>
 <img src="{{ "/assets/img/shoes.jpeg" | absolute_url }}" alt="Tree" class="post-pic"/>
