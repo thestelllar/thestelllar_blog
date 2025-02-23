@@ -44,6 +44,7 @@ Overall, this whole walk was beautiful. My shoes? They were white once.
 <img src="{{ "/assets/img/coorg_trees.jpeg" | absolute_url }}" alt="Tree" class="post-pic"/>
 
 <br />
+<br />
 <center><b>Random clicks</b><center>
 <center><i>A friend taught me how to take <i>these kind of</i> pictures. Top right one seems the best</i></center>
 <img src="{{ "/assets/img/photo_angle.jpeg" | absolute_url }}" alt="Tree" class="post-pic"/>
@@ -51,9 +52,10 @@ Overall, this whole walk was beautiful. My shoes? They were white once.
 <br />
 <br />
 <center><b>Few interesting things</b></center>
-<center><i>A wooden bird (I tried posing with it xd), some plants in "hands-up" punishment, mandrain orange leaf, wolf spider web, pink bunny, avacodo previously mistaken as guava :/</i></center>
+<center><i>A wooden bird (I tried posing with it xd), some plants in "hands-up" punishment, mandrain orange leaf, wolf spider web, pink bunny, avocado previously mistaken as guava :/</i></center>
 <img src="{{ "/assets/img/coorg_things.jpeg" | absolute_url }}" alt="Tree" class="post-pic"/>
 
+<br />
 <br />
 <center><b>My collection</b></center>
 <center><i>A sleeping hibiscus, few coffee flowers, bird's eye chillis, green pepper seed, insulin leaf, mandarin orange leaf, yellow flower with sweet nectar, purple flower turned black and finally a coffee cherry</i></center>
