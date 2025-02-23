@@ -23,6 +23,13 @@ Midway through our walk, I saw an unripe fruit on the ground. Confidently, I cla
 
 The path was rugged, as it should have been. I was focused on placing my foot right when the guide pointed to a distant tree and introduced it as a Rudraksha tree. From that distance, it was hard to capture its features. However, I’m glad I now know there’s a Rudraksha tree. I never really thought about Rudraksha much and had no clue that it came from the seeds of a tree.
 
-He pointed out many other interesting things—the cotton silk tree, insulin plant, mandarin orange plant, pepper vines, betel nut tree, fishtail palm tree, sleeping hibiscus flower, morning glory flower, Kandhari chili plant, yellow Jacobinia, wolf spider, and a few more that I can’t recall at the moment.
+He pointed out many other interesting things—the cotton silk tree, insulin plant, mandarin orange plant, pepper vines, betel nut tree, fishtail palm tree, sleeping hibiscus flower, morning glory flower, kandhari chili plant, yellow Jacobinia, wolf spider, and a few more that I can’t recall at the moment.
 
 Overall, this whole walk was beautiful. My shoes? They were white once.
+
+<img src="{{ "/assets/img/coffee_flower.jpeg" | absolute_url }}" alt="Tree" class="post-pic"/>
+<img src="{{ "/assets/img/coorg_flowers.jpeg" | absolute_url }}" alt="Tree" class="post-pic"/>
+<img src="{{ "/assets/img/coorg_trees.jpeg" | absolute_url }}" alt="Tree" class="post-pic"/>
+<img src="{{ "/assets/img/coorg_things.jpeg" | absolute_url }}" alt="Tree" class="post-pic"/>
+<img src="{{ "/assets/img/photo_angle.jpeg" | absolute_url }}" alt="Tree" class="post-pic"/>
+<img src="{{ "/assets/img/shoes.jpeg" | absolute_url }}" alt="Tree" class="post-pic"/>
