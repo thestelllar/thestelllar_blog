@@ -61,4 +61,5 @@ Overall, this whole walk was beautiful. My shoes? They were white once.
 <br />
 <br />
 <center><b>Finally, my shoes</b></center>
+<center><i>not that bad, to be honest.</i></center>
 <img src="{{ "/assets/img/shoes.jpeg" | absolute_url }}" alt="Tree" class="post-pic"/>
