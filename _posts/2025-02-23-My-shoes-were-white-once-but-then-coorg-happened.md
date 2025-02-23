@@ -28,8 +28,13 @@ He pointed out many other interesting things—the cotton silk tree, insulin pla
 Overall, this whole walk was beautiful. My shoes? They were white once.
 
 <img src="{{ "/assets/img/coffee_flower.jpeg" | absolute_url }}" alt="Tree" class="post-pic"/>
+
 <img src="{{ "/assets/img/coorg_flowers.jpeg" | absolute_url }}" alt="Tree" class="post-pic"/>
+
 <img src="{{ "/assets/img/coorg_trees.jpeg" | absolute_url }}" alt="Tree" class="post-pic"/>
+
 <img src="{{ "/assets/img/coorg_things.jpeg" | absolute_url }}" alt="Tree" class="post-pic"/>
+
 <img src="{{ "/assets/img/photo_angle.jpeg" | absolute_url }}" alt="Tree" class="post-pic"/>
+
 <img src="{{ "/assets/img/shoes.jpeg" | absolute_url }}" alt="Tree" class="post-pic"/>
