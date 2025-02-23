@@ -29,6 +29,8 @@ Overall, this whole walk was beautiful. My shoes? They were white once.
 
 <img src="{{ "/assets/img/coffee_flower.jpeg" | absolute_url }}" alt="Tree" class="post-pic"/>
 
+<center>coffee flower and cherry</center>
+
 <img src="{{ "/assets/img/coorg_flowers.jpeg" | absolute_url }}" alt="Tree" class="post-pic"/>
 
 <img src="{{ "/assets/img/coorg_trees.jpeg" | absolute_url }}" alt="Tree" class="post-pic"/>
