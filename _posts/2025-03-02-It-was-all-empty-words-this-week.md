@@ -11,4 +11,5 @@ I doubt I did anything properly. This whole week was spent signing up for tasks 
 If it had happened just once, I could have shrugged it off. But every single day of the week? That’s disappointing.
 
 Now what? New week, new me?
+
 Hmm, let’s see.
