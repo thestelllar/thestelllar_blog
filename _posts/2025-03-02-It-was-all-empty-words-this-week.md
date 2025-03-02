@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "It was all empty words this week."
-date: 2025-02-23 00:00:00
+date: 2025-03-02 00:00:00
 blurb: "A look at an example post using Bay Jekyll theme."
 # og_image: /assets/img/content/Meet_The_Characters.svg
 ---
