@@ -18,3 +18,7 @@ Like last Friday, when I didn't water them properly. By Monday, when I came back
 Today, too, when I looked at them, they seemed slightly pissed. A few splashes of water, and they were back to normal.
 
 Pretty simple, in my opinion.
+
+<img src="{{ "/assets/img/capsicum_plant_1.jpeg" | absolute_url }}" alt="Tree" class="post-pic"/>
+
+<img src="{{ "/assets/img/capsicum_plant_2.jpeg" | absolute_url }}" alt="Tree" class="post-pic"/>
