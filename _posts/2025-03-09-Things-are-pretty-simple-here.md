@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Things Are Pretty Simple Here."
+title: "Things are pretty simple here."
 date: 2025-03-09 00:00:00
 blurb: "A look at an example post using Bay Jekyll theme."
 # og_image: /assets/img/content/Meet_The_Characters.svg
