@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "Pretty simple, in my opinion."
+title: "Things Are Pretty Simple Here."
 date: 2025-03-09 00:00:00
 blurb: "A look at an example post using Bay Jekyll theme."
 # og_image: /assets/img/content/Meet_The_Characters.svg
@@ -18,7 +18,7 @@ Like last Friday, when I didn't water them properly. By Monday, when I came back
 
 Today, too, when I looked at them, they seemed slightly pissed. A few splashes of water, and they were back to normal.
 
-Pretty simple, in my opinion.
+See, things are pretty simple here.
 
 <img src="{{ "/assets/img/capsicum_plant_1.jpeg" | absolute_url }}" alt="Tree" class="post-pic"/>
 
