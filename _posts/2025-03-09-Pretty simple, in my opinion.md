@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Pretty simple, in my opinion."
-date: 2025-03-02 00:00:00
+date: 2025-03-09 00:00:00
 blurb: "A look at an example post using Bay Jekyll theme."
 # og_image: /assets/img/content/Meet_The_Characters.svg
 ---
@@ -11,6 +11,7 @@ Other than the fact that I have crammed a lot of capsicum seedlings into the sam
 They droop when they are sad; otherwise, they smile.
 
 I’ve found a perfect spot for my plants—at least for now. They get ample sunlight, <i>good company</i>, and a reasonably sensible person to water them regularly. Yes, that's me.
+
 Though, I mess it up sometimes.
 
 Like last Friday, when I didn't water them properly. By Monday, when I came back, they had all drooped—some more than others, but there was a clear, tangible gloominess in the air. To be honest, I thought that was it. Still, I watered them, hoping it would bring that smile back. And to my amazement, within a couple of hours, they were back to normal—no sign of gloominess at all!
