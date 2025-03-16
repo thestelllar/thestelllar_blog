@@ -13,7 +13,7 @@ I was running on my usual route at my usual pace when someone ran past me. Norma
 
 Towards the end, it was <i>extremely</i> hard, but I finished "strong" by catching up—capping it off with a barely audible "Thanks." :)
 
-And about Lalbagh’s generosity? It had nothing to do with this run but with the number of flowers it let me collect. I generally don’t prefer plucking flowers and love collecting the ones that have fallen. I added a few to my collection.
+And about Lalbagh’s generosity? It had nothing to do with this run but with the number of flowers it let me collect. I generally don’t prefer plucking flowers and instead love collecting the ones that have fallen. Lalbagh let me add a few more to my collection.
 
 <img src="{{ "/assets/img/lalbagh_flowers_2.jpeg" | absolute_url }}" alt="Tree" class="post-pic"/>
 
