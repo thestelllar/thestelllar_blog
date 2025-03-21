@@ -90,6 +90,10 @@ p.s. Other than this small bummer, I carried myself pretty well throughout the w
 
 <img src="{{ "/assets/img/laussane_tree_5.png" | absolute_url }}" alt="Tree" class="post-pic"/>
 
+<center><b>Food</b></center></br>
+<center><i>It looked tasty but turned out pretty bland for me. I added some salt to enhance the flavor, and that was the end of it—too salty! :( </i></center>
+<img src="{{ "/assets/img/laussane_city_1.png" | absolute_url }}" alt="Tree" class="post-pic"/>
+
 <center><b>City</b></center>
 <img src="{{ "/assets/img/laussane_city_1.png" | absolute_url }}" alt="Tree" class="post-pic"/>
 
