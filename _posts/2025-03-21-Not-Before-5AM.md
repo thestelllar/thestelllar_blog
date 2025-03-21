@@ -54,4 +54,24 @@ Sometimes, dozing off really solves the problem. :)
 
 p.s. Other than this small bummer, I carried myself pretty well throughout the whole trip. To be honest, I'm rather impressed with myself! Attached some photos I tried clicking along the way.
 
-<img src="{{ "/assets/img/plants_earlier.jpeg" | absolute_url }}" alt="Tree" class="post-pic"/>
+Here are some pictures I clicked along the way.
+
+<center>Trees</center>
+<img src="{{ "/assets/img/laussane_tree_1.png" | absolute_url }}" alt="Tree" class="post-pic"/>
+<img src="{{ "/assets/img/laussane_tree_2.png" | absolute_url }}" alt="Tree" class="post-pic"/>
+<img src="{{ "/assets/img/laussane_tree_3.png" | absolute_url }}" alt="Tree" class="post-pic"/>
+<img src="{{ "/assets/img/laussane_tree_4.png" | absolute_url }}" alt="Tree" class="post-pic"/>
+<img src="{{ "/assets/img/laussane_tree_5.png" | absolute_url }}" alt="Tree" class="post-pic"/>
+
+<center>Flower</center>
+<img src="{{ "/assets/img/lake_geneve_flower_1.png" | absolute_url }}" alt="Tree" class="post-pic"/>
+<img src="{{ "/assets/img/lake_geneve_flower_2.png" | absolute_url }}" alt="Tree" class="post-pic"/>
+
+<center>City</enter>
+<img src="{{ "/assets/img/laussane_city_1.png" | absolute_url }}" alt="Tree" class="post-pic"/>
+<img src="{{ "/assets/img/laussane_city_2.png" | absolute_url }}" alt="Tree" class="post-pic"/>
+<img src="{{ "/assets/img/laussane_city_3.png" | absolute_url }}" alt="Tree" class="post-pic"/>
+<img src="{{ "/assets/img/laussane_city_4.png" | absolute_url }}" alt="Tree" class="post-pic"/>
+<img src="{{ "/assets/img/laussane_city_5.png" | absolute_url }}" alt="Tree" class="post-pic"/>
+<img src="{{ "/assets/img/laussane_city_6.png" | absolute_url }}" alt="Tree" class="post-pic"/>
+<img src="{{ "/assets/img/laussane_city_7.png" | absolute_url }}" alt="Tree" class="post-pic"/>
