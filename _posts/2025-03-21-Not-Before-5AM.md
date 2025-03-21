@@ -1,6 +1,6 @@
 ---
 layout: post
-title: "They Told Me Not to Leave the Airport Before 5 AM."
+title: "They told me not to leave the airport before 5 AM."
 date: 2025-03-21 00:00:00
 blurb: "A look at an example post using Bay Jekyll theme."
 # og_image: /assets/img/content/Meet_The_Characters.svg
