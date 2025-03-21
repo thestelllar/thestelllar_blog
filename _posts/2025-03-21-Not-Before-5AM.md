@@ -44,7 +44,7 @@ With everything finally in place, I pulled out my phone and checked the time.
 
 I bought my ticket and found a seat.
 
-I sat there, half-thinking about what to say when my mom would inevitably ask how I managed to get a bus before 5 AM. My mind drifted between thoughts. I dozed off.
+I sat there, half-thinking about what to say when my mom would inevitably ask why I got a bus before 5 AM. My mind drifted between thoughts. I dozed off.
 
 I woke up to my mom’s call.
 
