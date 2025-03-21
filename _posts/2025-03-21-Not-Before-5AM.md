@@ -54,7 +54,12 @@ And the bus just started.
 
 Sometimes, dozing off really solves the problem. :)
 
-p.s. Other than this small bummer, I carried myself pretty well throughout the whole trip. To be honest, I'm rather impressed with myself! Attached some photos I tried clicking along the way.
+p.s. Other than this small bummer, I carried myself pretty well throughout the whole trip. To be honest, I'm rather impressed with myself! Attached some photos I tried clicking along the way. I could have done a better job with arrangement of attached pictures, maybe some other time.
+
+<center>Flower</center>
+<img src="{{ "/assets/img/lake_geneva_flower_1.png" | absolute_url }}" alt="Tree" class="post-pic"/>
+
+<img src="{{ "/assets/img/lake_geneva_flower_2.png" | absolute_url }}" alt="Tree" class="post-pic"/>
 
 <center>Trees</center>
 <img src="{{ "/assets/img/laussane_tree_1.png" | absolute_url }}" alt="Tree" class="post-pic"/>
@@ -66,11 +71,6 @@ p.s. Other than this small bummer, I carried myself pretty well throughout the w
 <img src="{{ "/assets/img/laussane_tree_4.png" | absolute_url }}" alt="Tree" class="post-pic"/>
 
 <img src="{{ "/assets/img/laussane_tree_5.png" | absolute_url }}" alt="Tree" class="post-pic"/>
-
-<center>Flower</center>
-<img src="{{ "/assets/img/lake_geneve_flower_1.png" | absolute_url }}" alt="Tree" class="post-pic"/>
-
-<img src="{{ "/assets/img/lake_geneve_flower_2.png" | absolute_url }}" alt="Tree" class="post-pic"/>
 
 <center>City</enter>
 <img src="{{ "/assets/img/laussane_city_1.png" | absolute_url }}" alt="Tree" class="post-pic"/>
