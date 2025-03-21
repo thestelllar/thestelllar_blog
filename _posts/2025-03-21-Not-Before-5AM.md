@@ -79,7 +79,7 @@ p.s. Other than this small bummer, I carried myself pretty well throughout the w
 
 <img src="{{ "/assets/img/lake_geneva.png" | absolute_url }}" alt="Tree" class="post-pic"/>
 
-<center><b>Trees</b><i>(of course!)</i></center>
+<center><b>Trees</b><br><i>of course!</i></center>
 <img src="{{ "/assets/img/laussane_tree_1.png" | absolute_url }}" alt="Tree" class="post-pic"/>
 
 <img src="{{ "/assets/img/laussane_tree_2.png" | absolute_url }}" alt="Tree" class="post-pic"/>
