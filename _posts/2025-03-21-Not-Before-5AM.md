@@ -61,6 +61,11 @@ p.s. Other than this small bummer, I carried myself pretty well throughout the w
 
 <img src="{{ "/assets/img/lake_geneva_flower_2.png" | absolute_url }}" alt="Tree" class="post-pic"/>
 
+<center>Lake side</center>
+<img src="{{ "/assets/img/lake_geneva_evening.png" | absolute_url }}" alt="Tree" class="post-pic"/>
+
+<img src="{{ "/assets/img/lake_geneva.png" | absolute_url }}" alt="Tree" class="post-pic"/>
+
 <center>Trees</center>
 <img src="{{ "/assets/img/laussane_tree_1.png" | absolute_url }}" alt="Tree" class="post-pic"/>
 
@@ -72,7 +77,7 @@ p.s. Other than this small bummer, I carried myself pretty well throughout the w
 
 <img src="{{ "/assets/img/laussane_tree_5.png" | absolute_url }}" alt="Tree" class="post-pic"/>
 
-<center>City</enter>
+<center>City</center>
 <img src="{{ "/assets/img/laussane_city_1.png" | absolute_url }}" alt="Tree" class="post-pic"/>
 
 <img src="{{ "/assets/img/laussane_city_2.png" | absolute_url }}" alt="Tree" class="post-pic"/>
