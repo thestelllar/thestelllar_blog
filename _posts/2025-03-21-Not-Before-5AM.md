@@ -56,8 +56,6 @@ Sometimes, dozing off really solves the problem. :)
 
 p.s. Other than this small bummer, I carried myself pretty well throughout the whole trip. To be honest, I'm rather impressed with myself! Attached some photos I tried clicking along the way.
 
-Here are some pictures I clicked along the way.
-
 <center>Trees</center>
 <img src="{{ "/assets/img/laussane_tree_1.png" | absolute_url }}" alt="Tree" class="post-pic"/>
 
