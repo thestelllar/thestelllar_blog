@@ -24,7 +24,7 @@ Deep down, I already knew I was at the wrong belt. Even long before the last of 
 
 Earlier that day, when I told my mom that my flight would land in India at 3 AM, she and my elder sister had instructed me not to leave the airport before 5 AM. Two hours.
 
-So, I knew I had two hours to collect my baggage. I also knew I had prepared for the worst—losing my luggage due to an airline error, someone mistaking my bag for theirs, or even someone thinking I had more than they did. And then, I was feeling sleepy too. All of these reasons combined, I chose to ignore my gut feeling.
+So, I knew I had two hours to collect my baggage. I also knew I had prepared for the worst—losing my luggage due to an airline error, someone mistaking my bag for theirs, or even someone thinking I had <i>more than they did</i>. And then, I was feeling sleepy too. All of these reasons combined, I chose to ignore my gut feeling.
 
 Belt 2 was empty too. I moved around a bit, and a porter standing nearby pointed at a lone suitcase.
 
