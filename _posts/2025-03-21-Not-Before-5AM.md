@@ -50,6 +50,8 @@ I woke up to my mom’s call.
 
 4:57 AM.
 
+And the bus just started.
+
 Sometimes, dozing off really solves the problem. :)
 
 p.s. Other than this small bummer, I carried myself pretty well throughout the whole trip. To be honest, I'm rather impressed with myself! Attached some photos I tried clicking along the way.
