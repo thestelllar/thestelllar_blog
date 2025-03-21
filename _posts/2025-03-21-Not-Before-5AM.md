@@ -57,21 +57,24 @@ Sometimes, dozing off really solves the problem. :)
 p.s. Other than this small bummer, I carried myself pretty well throughout the whole trip. To be honest, I'm rather impressed with myself! Attached some photos I tried clicking along the way. I could have done a better job with arrangement of attached pictures, maybe some other time.
 
 <center>
-    Another bummer :) <br>
-    I tried recording one of <i> those </i> videos and accidently locked myself out! 🥲
-    But I got to keep an extra key so not that bad.
+    <b>Another bummer :) </b> <br>
+    I tried recording one of <i> those </i> videos and accidently locked myself out! 🥲 <br>
+    Btw, I got to keep an extra key so not that bad.
   <video width="600" controls>
     <source src="{{ "/assets/img/hotel_ibis.mp4" | absolute_url }}" type="video/mp4">
     Your browser does not support the video tag.
   </video>
 </center>
 
-<center>Flower</center>
+<center><b>Flower</b></center>
+<center><i>I brought this flower back with me :)</i></center>
 <img src="{{ "/assets/img/lake_geneva_flower_1.png" | absolute_url }}" alt="Tree" class="post-pic"/>
 
 <img src="{{ "/assets/img/lake_geneva_flower_2.png" | absolute_url }}" alt="Tree" class="post-pic"/>
 
-<center>Lake side</center>
+<center><b>Lake side</b></center>
+
+<center><i>I wish it was me in the frame! </i></center>
 <img src="{{ "/assets/img/lake_geneva_evening.png" | absolute_url }}" alt="Tree" class="post-pic"/>
 
 <img src="{{ "/assets/img/lake_geneva.png" | absolute_url }}" alt="Tree" class="post-pic"/>
