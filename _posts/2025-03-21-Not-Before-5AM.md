@@ -91,3 +91,6 @@ p.s. Other than this small bummer, I carried myself pretty well throughout the w
 <img src="{{ "/assets/img/laussane_city_6.png" | absolute_url }}" alt="Tree" class="post-pic"/>
 
 <img src="{{ "/assets/img/laussane_city_7.png" | absolute_url }}" alt="Tree" class="post-pic"/>
+
+<center>And, then me :)</center>
+<img src="{{ "/assets/img/me.png" | absolute_url }}" alt="Tree" class="post-pic"/>
