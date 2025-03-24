@@ -6,7 +6,7 @@ blurb: "A look at an example post using Bay Jekyll theme."
 # og_image: /assets/img/content/Meet_The_Characters.svg
 ---
 
-Now, listen here. I left my good old cactus, nice and neat, trimmed down just right—simple, respectable, nothing too flashy. And I come back, and what do I see? A whole <i>thing</i> sprouting right on top of its head like some wild, untamed mess.
+Now, listen here. I left my good old cactus, nice and neat, trimmed down just right—simple, respectable, nothing too flashy. And I come back, and what do I see? A whole <i>thing</i> sprouting right on top of its head like some wild, untamed mess. Pardon me.
 
 I squint at it, tilt my head. <i>What in the name of good, proper houseplants is this?</i>
 
