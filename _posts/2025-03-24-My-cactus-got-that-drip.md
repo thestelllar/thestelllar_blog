@@ -25,3 +25,5 @@ My cactus got that drip.
 
 <center><i>My cactus now </i></center>
 <img src="{{ "/assets/img/new_cactus.jpeg" | absolute_url }}" alt="Tree" class="post-pic"/>
+
+p.s. Just kidding. My cactus has got a better sense of style than I ever will have. 🌵
