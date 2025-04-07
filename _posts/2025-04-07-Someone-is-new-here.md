@@ -24,3 +24,15 @@ One that pairs beautifully with my monochromatic bag.
 One that adds vibrant colors to my otherwise uninteresting wardrobe.
 It’s a sunflower. 🌻
 A crocheted one.
+
+<center><i> My sunflower </i></center>
+<img src="{{ "/assets/img/old_cactus.jpeg" | absolute_url }}" alt="Tree" class="post-pic"/>
+
+<center><i>All my plants </i></center>
+<img src="{{ "/assets/img/new_cactus.jpeg" | absolute_url }}" alt="Tree" class="post-pic"/>
+
+<center><i>🌻 with my bag </i></center>
+<img src="{{ "/assets/img/new_cactus.jpeg" | absolute_url }}" alt="Tree" class="post-pic"/>
+
+<center><i>New bugs </i></center>
+<img src="{{ "/assets/img/new_cactus.jpeg" | absolute_url }}" alt="Tree" class="post-pic"/>
