@@ -34,5 +34,5 @@ A crocheted one.
 <center><i>🌻 with my bag </i></center>
 <img src="{{ "/assets/img/crochet_plant_and_bag.jpeg" | absolute_url }}" alt="Tree" class="post-pic"/>
 
-<center><i>New bugs </i></center>
+<center><i>New capsicum buds </i></center>
 <img src="{{ "/assets/img/new_buds.jpeg" | absolute_url }}" alt="Tree" class="post-pic"/>
