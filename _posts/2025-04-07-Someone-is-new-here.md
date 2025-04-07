@@ -6,7 +6,6 @@ blurb: "A look at an example post using Bay Jekyll theme."
 # og_image: /assets/img/content/Meet_The_Characters.svg
 ---
 
-Someone’s new here!
 I was wondering what to talk about this weekend. If you’ve been following along, you’ll notice I usually write about one of two things: my plants or my weekend run. The pattern is obvious.
 But this week, the running part wasn’t particularly eventful. Not that it makes it any less important to me — but if I had to choose, I’d rather write about something else. For your sake, let’s assume. So, with running out the window, I’m left with my plants.<br />
 
