@@ -8,10 +8,10 @@ blurb: "A look at an example post using Bay Jekyll theme."
 
 I want to live a simple, meaningful and peaceful life.
 
-I don't know what that means.
+And, I don't know what that means.
 
 btw, my plants are doing fine. I need to start looking for a new place for them.
-<img src="{{ "/assets/img/my_plants)10_may_2025.jpeg" | absolute_url }}" alt="Tree" class="post-pic"/>
+<img src="{{ "/assets/img/my_plants_10_may_2025.jpeg" | absolute_url }}" alt="Tree" class="post-pic"/>
 
 Also, lately, I'ven't been running properly. My last <i>proper</i> run was on 27th April 2025. I was supposed to run in TCS 10K Run but the crowd was overwhelming so I instead ran in Cubbon which was looking even more 🌸
 The week after TCS 10K - I skippped.
