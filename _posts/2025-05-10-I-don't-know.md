@@ -18,7 +18,7 @@ Also, lately, I'ven't been running properly. My last <i>proper</i> run was on 27
 
 The week after TCS 10K - I skippped.
 
-And today I walked.
+And today - I walked.
 
 Maybe next weekend I'll run.
 
