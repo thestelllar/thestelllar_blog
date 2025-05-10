@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: post
 title: "I don't know."
 date: 2025-05-10 00:00:00
@@ -22,4 +22,4 @@ And today - I walked.
 
 Maybe next weekend I'll run.
 
-<img src="{{ "/assets/img/10K.jpeg" | absolute_url }}" alt="Tree" class="post-pic"/>
+<img src="{{ "/assets/img/10K.jpeg" | absolute_url }}" alt="Tree" class="post-pic"/> -->
