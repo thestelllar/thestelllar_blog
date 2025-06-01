@@ -26,8 +26,8 @@ I’ve started learning how to drive. I think I’m doing decently, and hopefull
 Besides that, there’s a cat in our house. Well, not exactly <i>in</i> our house—she roams around our veranda quite often. Her frequent violent encounters with other cats (and sometimes even dogs) say a lot about how possessive she is of our little space.
 
 Initially, I was a bit skeptical about letting her get close to me—partly because of past unpleasant experiences and partly because she was already getting enough love and attention from my mom and siblings (maybe even papa, though I’m not entirely convinced by his ways of expressing affection. The cat would agree, too). It felt like whatever I could offer would be insignificant and redundant. Yet, after a week here, I’ve started enjoying her company. I really like it when she silently comes and stands close to me. This is almost always followed by me squeaking and jumping aside, startled by her touch. But it feels good. A bit weird, but good.
-
 I think I’ve started liking her company, though I still can’t muster the courage to lift her up like the others do. And I’ll let it be that way, as I’ll be leaving soon, and I don’t want another reason to feel sentimental about home.
+
 I want to build my muscle strength too—and defeat my siblings in arm wrestling.
 
 That was out of the blue.
