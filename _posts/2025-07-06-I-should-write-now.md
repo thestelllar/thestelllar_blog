@@ -20,8 +20,6 @@ The kind that pisses Mom off — not drinking milk on time, delaying breakfast u
 
 And when Mom is pissed, she does what moms do best — taunt at every opportunity. And I have to sit through all of it, even though I drink my milk, eat my breakfast on time, finish my curd then and there, and take whatever mango pieces are left — without so much as a complaint.
 
-And Dad — well, he gets scolded sometimes too. And honestly, I’m fully on her side when that happens. Like, who leaves the tap open like that?
-
 My brother is good in these regards <i>at least</i>. We’re on sort-of-agreeable terms.
 Though we randomly hit each other, laugh, and then get scolded by Mom, he never bothers to irritate me the way my Di does. I think he thinks he’s the wise one around. But then everyone thinks the same.
 
