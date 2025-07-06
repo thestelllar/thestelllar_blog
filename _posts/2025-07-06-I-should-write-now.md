@@ -29,7 +29,7 @@ Had I been in her position, I would’ve lost my sanity long ago.
 
 Still, I love being here. I think this is what I miss when I say I want to go home now.
 My siblings are annoying — I won’t deny that. I don’t know how Mom puts up with it all.
-Then again, it wouldn’t be a wild guess to assume they’ve got equally annoying things to say about me.
+Then again, it wouldn’t be a wild guess to assume they’ve got <i>equally annoying</i> things to say about me.
 
 But hey, this is my corner — so that’s fine.
 
