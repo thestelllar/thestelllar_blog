@@ -40,7 +40,9 @@ And I finished another novel. This one was an audiobook — <i>The Sittaford Mys
 I guessed the murderer beforehand. Initially, it was a wild guess, and then I felt confident after I heard an astute old lady character describe the suspect as one with a jealous disposition.
 Still — a wild guess on my part.
 
-Though, I don’t know why I wrote this. Maybe because, despite my sister’s warning about locking me out for three hours, I left all my <i>useful</i> stuff inside — and I had to do something.
+Though, I don’t know why I wrote this.
+
+Maybe because, despite my sister’s warning about locking me out for three hours, I left all my <i>useful</i> stuff inside — and I had to do something.
 
 Lately, we’ve started watching old cartoons during our meals.
 
