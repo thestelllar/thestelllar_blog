@@ -1,4 +1,4 @@
----
+<!-- ---
 layout: post
 title: "I should probably write now."
 date: 2025-07-06 00:00:00
@@ -50,4 +50,4 @@ We’ve finished all the <i>Mr. Bean</i> episodes available on YouTube and are n
 
 I love how simply they look at life in those episodes — and their songs? Absolute gems!
 
-Have a good day 🌼
+Have a good day 🌼 -->
