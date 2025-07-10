@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Guardsperson. Yeah, that’s what I am these days."
-date: 2025-07-03 00:00:00
+date: 2025-07-10 00:00:00
 blurb: "A look at an example post using Bay Jekyll theme."
 # og_image: /assets/img/content/Meet_The_Characters.svg
 ---
