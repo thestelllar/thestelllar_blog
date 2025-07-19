@@ -1,7 +1,7 @@
 ---
 layout: post
 title: "Our cat is about to become a momma-cat today."
-date: 2025-07-10 00:00:00
+date: 2025-07-19 00:00:00
 blurb: "A look at an example post using Bay Jekyll theme."
 # og_image: /assets/img/content/Meet_The_Characters.svg
 ---
