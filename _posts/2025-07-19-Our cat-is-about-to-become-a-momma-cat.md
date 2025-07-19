@@ -32,9 +32,9 @@ And there she was. Sitting quietly in one of the corners of their garden, conven
 
 There wasn’t much I could do, so I came back home.
 
-I didn’t feel sad that she chose their garden over ours.
-A bit, maybe.
-But it made sense. That corner was well hidden. Quiet. Safe.
+<i>I didn’t feel sad at all that she chose their garden over ours.</i>
+
+A bit, maybe. But it made sense. That corner was well hidden. Quiet. Safe.
 
 Back at home, I told everyone what had happened.
 
